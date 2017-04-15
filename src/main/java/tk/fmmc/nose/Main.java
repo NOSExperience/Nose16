@@ -6,6 +6,7 @@ import cpw.mods.fml.common.SidedProxy;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
+import cpw.mods.fml.common.event.FMLServerStartingEvent;
 
 @Mod(modid = Main.MODID, name = Main.MODNAME, version = Main.VERSION)
 public class Main {
@@ -30,5 +31,10 @@ public class Main {
 	@EventHandler
 	void postInit(FMLPostInitializationEvent e) {
 		proxy.postInit(e);
+	}
+	
+	@EventHandler
+	public void serverStart(FMLServerStartingEvent e) {
+		e.registerServerCommand(new CommandRestart());
 	}
 }

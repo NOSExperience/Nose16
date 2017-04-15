@@ -14,6 +14,7 @@ public class Parser {
 	private static final String ENGLISH_NAME_TAG = "englishname";
 	private static final String TEXTURE_NAME_TAG = "texturename";
 	private static final String ITEM_TAG = "item";
+	private static final String BLOCK_TAG = "block";
 	
 	public static CombinedSpecification parse(File file, DocumentBuilder builder) throws Exception {
 		System.out.println(file.getName());
@@ -22,15 +23,33 @@ public class Parser {
 		
 		document.getDocumentElement().normalize();
 		
-		List<ItemSpecification> items = loadItems(document);
+		List<ItemSpecification> items = load(document, ItemType.ITEM);
+		List<ItemSpecification> blocks = load(document, ItemType.BLOCK);
+		
+		List<ItemSpecification> together = new ArrayList<ItemSpecification>();
 		
 		return new CombinedSpecification(items);
 	}
 		
-	private static List<ItemSpecification> loadItems(Document document) {
+	private static List<ItemSpecification> load(Document document, ItemType type) {
 		List<ItemSpecification> items = new ArrayList<ItemSpecification>();
 		
-		NodeList itemList = document.getElementsByTagName(ITEM_TAG);
+		String tagName = new String();
+		
+		//IF IT'S NOT WORKING: Perhaps you forgot your break.
+		switch(type) {
+			case ITEM:
+				tagName = ITEM_TAG;
+				break;
+			case BLOCK:
+				tagName = BLOCK_TAG;
+				break;
+			default:
+				break;
+		}
+		
+		NodeList itemList = document.getElementsByTagName(tagName);
+		System.out.println("itemList length: " + tagName + ": " + itemList.getLength());
 		for(int i = 0; i < itemList.getLength(); i++) {
 			Node node = itemList.item(i);
 			if(node == null) {
@@ -74,10 +93,12 @@ public class Parser {
 			
 			//Texture is optional and can be null
 			if(registryName != null && englishName != null) {
-				items.add(new ItemSpecification(registryName, englishName, textureName));
+				items.add(new ItemSpecification(type, registryName, englishName, textureName));
 			}
 		}
 		
 		return items;
 	}
+	
+
 }
