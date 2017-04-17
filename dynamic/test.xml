@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<xml>
+	<item>
+	    <registryname>nyancat</registryname>
+		<englishname>Nyan Cat</englishname>
+		<texturename>nyancat</texturename>
+	</item>
+	<item>
+        <registryname>derpycat</registryname>
+		<englishname>Derpy Cat</englishname>
+        <texturename>testa</texturename>
+	</item>
+	<item>
+        <registryname>shadycat</registryname>
+		<englishname>Shady Cat</englishname>
+        <texturename>testa</texturename>
+	</item>
+	<block>
+		<registryname>catblock</registryname>
+		<englishname>Cat Block</englishname>
+		<texturename>testa</texturename>
+	</block>
+</xml>

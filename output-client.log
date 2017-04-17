@@ -1,0 +1,196 @@
+2017-04-15 15:41:22 [CLIENT] [INFO] Setting user: Player203
+2017-04-15 15:41:22 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2017-04-15 15:41:23 [CLIENT] [INFO] Reloading ResourceManager: Default
+2017-04-15 15:41:24 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod
+2017-04-15 15:41:25 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod
+2017-04-15 15:41:26 [CLIENT] [SEVERE] Realms: Server not available!
+2017-04-15 15:41:28 [CLIENT] [INFO] Stopping!
+2017-04-15 15:42:50 [CLIENT] [INFO] Setting user: Player757
+2017-04-15 15:42:51 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2017-04-15 15:42:51 [CLIENT] [INFO] Reloading ResourceManager: Default
+2017-04-15 15:42:53 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Dynamic mod, FMLFileResourcePack:Example Mod
+2017-04-15 15:42:53 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4257_retrogocat.png
+2017-04-15 15:42:53 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4256_otherfilecat.png
+2017-04-15 15:42:53 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Dynamic mod, FMLFileResourcePack:Example Mod
+2017-04-15 15:42:53 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4257_retrogocat.png
+2017-04-15 15:42:53 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4256_otherfilecat.png
+2017-04-15 15:42:54 [CLIENT] [SEVERE] Realms: Server not available!
+2017-04-15 15:42:56 [CLIENT] [INFO] Stopping!
+2017-04-15 15:43:52 [CLIENT] [INFO] Setting user: Player469
+2017-04-15 15:43:53 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2017-04-15 15:43:53 [CLIENT] [INFO] Reloading ResourceManager: Default
+2017-04-15 15:43:54 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Dynamic mod, FMLFileResourcePack:Example Mod
+2017-04-15 15:43:55 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4257_retrogocat.png
+2017-04-15 15:43:55 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4256_otherfilecat.png
+2017-04-15 15:43:55 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Dynamic mod, FMLFileResourcePack:Example Mod
+2017-04-15 15:43:55 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4257_retrogocat.png
+2017-04-15 15:43:55 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4256_otherfilecat.png
+2017-04-15 15:43:56 [CLIENT] [SEVERE] Realms: Server not available!
+2017-04-15 15:44:39 [CLIENT] [INFO] [CHAT] test2
+2017-04-15 15:44:39 [CLIENT] [INFO] [CHAT] An unknown error occurred while attempting to perform this command
+2017-04-15 15:52:34 [CLIENT] [INFO] [CHAT] Local game hosted on port 41769
+2017-04-15 16:01:20 [CLIENT] [INFO] Stopping!
+2017-04-15 16:04:12 [CLIENT] [INFO] Setting user: Player654
+2017-04-15 16:04:13 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2017-04-15 16:04:13 [CLIENT] [INFO] Reloading ResourceManager: Default
+2017-04-15 16:04:15 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Dynamic mod, FMLFileResourcePack:Example Mod
+2017-04-15 16:04:15 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4257_retrogocat.png
+2017-04-15 16:04:15 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4256_otherfilecat.png
+2017-04-15 16:04:15 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Dynamic mod, FMLFileResourcePack:Example Mod
+2017-04-15 16:04:16 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4257_retrogocat.png
+2017-04-15 16:04:16 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4256_otherfilecat.png
+2017-04-15 16:04:17 [CLIENT] [SEVERE] Realms: Server not available!
+2017-04-15 16:04:22 [CLIENT] [INFO] [CHAT] test3
+2017-04-15 16:04:22 [CLIENT] [INFO] [CHAT] Player654
+2017-04-15 16:11:27 [CLIENT] [INFO] [CHAT] test3
+2017-04-15 16:11:27 [CLIENT] [INFO] [CHAT] Player654
+2017-04-15 16:11:36 [CLIENT] [INFO] [CHAT] Local game hosted on port 45814
+2017-04-15 16:11:38 [CLIENT] [INFO] [CHAT] test3
+2017-04-15 16:11:38 [CLIENT] [INFO] [CHAT] Player654
+2017-04-15 16:12:33 [CLIENT] [INFO] Stopping!
+2017-04-15 16:13:03 [CLIENT] [INFO] Setting user: Player435
+2017-04-15 16:13:04 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2017-04-15 16:13:04 [CLIENT] [INFO] Reloading ResourceManager: Default
+2017-04-15 16:13:05 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Dynamic mod, FMLFileResourcePack:Example Mod
+2017-04-15 16:13:06 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4257_retrogocat.png
+2017-04-15 16:13:06 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4256_otherfilecat.png
+2017-04-15 16:13:06 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Dynamic mod, FMLFileResourcePack:Example Mod
+2017-04-15 16:13:06 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4257_retrogocat.png
+2017-04-15 16:13:06 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4256_otherfilecat.png
+2017-04-15 16:13:07 [CLIENT] [SEVERE] Realms: Server not available!
+2017-04-15 16:13:25 [CLIENT] [INFO] [CHAT] test3
+2017-04-15 16:13:25 [CLIENT] [INFO] [CHAT] Player435
+2017-04-15 16:13:51 [CLIENT] [INFO] Setting user: Player502
+2017-04-15 16:13:52 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2017-04-15 16:13:52 [CLIENT] [INFO] Reloading ResourceManager: Default
+2017-04-15 16:13:53 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Dynamic mod, FMLFileResourcePack:Example Mod
+2017-04-15 16:13:54 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4257_retrogocat.png
+2017-04-15 16:13:54 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4256_otherfilecat.png
+2017-04-15 16:13:54 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Dynamic mod, FMLFileResourcePack:Example Mod
+2017-04-15 16:13:54 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4257_retrogocat.png
+2017-04-15 16:13:54 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4256_otherfilecat.png
+2017-04-15 16:13:55 [CLIENT] [SEVERE] Realms: Server not available!
+2017-04-15 16:14:01 [CLIENT] [INFO] [CHAT] test3
+2017-04-15 16:14:01 [CLIENT] [INFO] [CHAT] Player502
+2017-04-15 16:15:34 [CLIENT] [INFO] Setting user: Player720
+2017-04-15 16:15:35 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2017-04-15 16:15:35 [CLIENT] [INFO] Reloading ResourceManager: Default
+2017-04-15 16:15:37 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Dynamic mod, FMLFileResourcePack:Example Mod
+2017-04-15 16:15:37 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4257_retrogocat.png
+2017-04-15 16:15:37 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4256_otherfilecat.png
+2017-04-15 16:15:37 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Dynamic mod, FMLFileResourcePack:Example Mod
+2017-04-15 16:15:37 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4257_retrogocat.png
+2017-04-15 16:15:37 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4256_otherfilecat.png
+2017-04-15 16:15:39 [CLIENT] [SEVERE] Realms: Server not available!
+2017-04-15 16:15:44 [CLIENT] [INFO] Stopping!
+2017-04-15 17:15:45 [CLIENT] [INFO] Setting user: Player248
+2017-04-15 17:15:46 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2017-04-15 17:15:46 [CLIENT] [INFO] Reloading ResourceManager: Default
+2017-04-15 17:29:10 [CLIENT] [INFO] Setting user: Player903
+2017-04-15 17:29:11 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2017-04-15 17:29:11 [CLIENT] [INFO] Reloading ResourceManager: Default
+2017-04-15 17:29:13 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Dynamic mod, FMLFileResourcePack:Example Mod
+2017-04-15 17:29:14 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4257_retrogocat.png
+2017-04-15 17:29:14 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4256_otherfilecat.png
+2017-04-15 17:29:14 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Dynamic mod, FMLFileResourcePack:Example Mod
+2017-04-15 17:29:14 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4257_retrogocat.png
+2017-04-15 17:29:14 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4256_otherfilecat.png
+2017-04-15 17:29:15 [CLIENT] [SEVERE] Realms: Server not available!
+2017-04-15 17:29:21 [CLIENT] [INFO] Stopping!
+2017-04-15 17:31:06 [CLIENT] [INFO] Setting user: Player911
+2017-04-15 17:31:07 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2017-04-15 17:31:07 [CLIENT] [INFO] Reloading ResourceManager: Default
+2017-04-15 17:31:09 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Dynamic mod, FMLFileResourcePack:Example Mod
+2017-04-15 17:31:35 [CLIENT] [INFO] Setting user: Player63
+2017-04-15 17:31:35 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2017-04-15 17:31:35 [CLIENT] [INFO] Reloading ResourceManager: Default
+2017-04-15 17:31:37 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Dynamic mod, FMLFileResourcePack:Example Mod
+2017-04-15 17:31:38 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4257_retrogocat.png
+2017-04-15 17:31:38 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4256_otherfilecat.png
+2017-04-15 17:31:38 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Dynamic mod, FMLFileResourcePack:Example Mod
+2017-04-15 17:31:38 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4257_retrogocat.png
+2017-04-15 17:31:38 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4256_otherfilecat.png
+2017-04-15 17:31:39 [CLIENT] [SEVERE] Realms: Server not available!
+2017-04-15 17:31:46 [CLIENT] [INFO] [CHAT] Usage: /give <player> <item> [amount] [data]
+2017-04-15 17:31:50 [CLIENT] [INFO] [CHAT] Given Other File Cat (ID 4256) * 1 to Player63
+2017-04-15 17:31:55 [CLIENT] [INFO] [CHAT] There is no such item with ID 5256
+2017-04-15 17:32:00 [CLIENT] [INFO] [CHAT] Given retroGo Cat (ID 4257) * 1 to Player63
+2017-04-15 17:32:04 [CLIENT] [INFO] [CHAT] Given Nyan Cat (ID 4258) * 1 to Player63
+2017-04-15 17:32:07 [CLIENT] [INFO] [CHAT] Given Derpy Cat (ID 4259) * 1 to Player63
+2017-04-15 17:32:10 [CLIENT] [INFO] [CHAT] Given Shady Cat (ID 4260) * 1 to Player63
+2017-04-15 17:32:12 [CLIENT] [INFO] [CHAT] There is no such item with ID 4261
+2017-04-15 17:33:09 [CLIENT] [INFO] Stopping!
+2017-04-15 17:35:49 [CLIENT] [INFO] Setting user: Player97
+2017-04-15 17:35:49 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2017-04-15 17:35:50 [CLIENT] [INFO] Reloading ResourceManager: Default
+2017-04-15 17:35:51 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Dynamic mod, FMLFileResourcePack:Example Mod
+2017-04-15 17:35:52 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4257_retrogocat.png
+2017-04-15 17:35:52 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4256_otherfilecat.png
+2017-04-15 17:35:52 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Dynamic mod, FMLFileResourcePack:Example Mod
+2017-04-15 17:35:52 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4257_retrogocat.png
+2017-04-15 17:35:52 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4256_otherfilecat.png
+2017-04-15 17:35:53 [CLIENT] [SEVERE] Realms: Server not available!
+2017-04-15 17:36:01 [CLIENT] [INFO] [CHAT] Unknown command. Try /help for a list of commands
+2017-04-15 17:36:08 [CLIENT] [INFO] [CHAT] test3
+2017-04-15 17:36:08 [CLIENT] [INFO] [CHAT] Player97
+2017-04-15 17:36:15 [CLIENT] [INFO] Stopping!
+2017-04-15 17:37:16 [CLIENT] [INFO] Setting user: Player585
+2017-04-15 17:37:17 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2017-04-15 17:37:17 [CLIENT] [INFO] Reloading ResourceManager: Default
+2017-04-15 17:37:18 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Dynamic mod, FMLFileResourcePack:Example Mod
+2017-04-15 17:37:19 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4257_retrogocat.png
+2017-04-15 17:37:19 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4256_otherfilecat.png
+2017-04-15 17:37:19 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Dynamic mod, FMLFileResourcePack:Example Mod
+2017-04-15 17:37:19 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4257_retrogocat.png
+2017-04-15 17:37:19 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4256_otherfilecat.png
+2017-04-15 17:37:20 [CLIENT] [SEVERE] Realms: Server not available!
+2017-04-15 17:37:26 [CLIENT] [INFO] [CHAT] test3
+2017-04-15 17:37:26 [CLIENT] [INFO] [CHAT] Player585
+2017-04-15 17:37:26 [CLIENT] [INFO] [CHAT] An unknown error occurred while attempting to perform this command
+2017-04-15 17:38:00 [CLIENT] [INFO] Stopping!
+2017-04-15 17:38:22 [CLIENT] [INFO] Setting user: Player258
+2017-04-15 17:38:22 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2017-04-15 17:38:23 [CLIENT] [INFO] Reloading ResourceManager: Default
+2017-04-15 17:38:24 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Dynamic mod, FMLFileResourcePack:Example Mod
+2017-04-15 17:38:25 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4257_retrogocat.png
+2017-04-15 17:38:25 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4256_otherfilecat.png
+2017-04-15 17:38:25 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Dynamic mod, FMLFileResourcePack:Example Mod
+2017-04-15 17:38:25 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4257_retrogocat.png
+2017-04-15 17:38:25 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4256_otherfilecat.png
+2017-04-15 17:38:26 [CLIENT] [SEVERE] Realms: Server not available!
+2017-04-15 17:38:32 [CLIENT] [INFO] [CHAT] test3
+2017-04-15 17:38:32 [CLIENT] [INFO] [CHAT] Player258
+2017-04-15 17:38:32 [CLIENT] [INFO] [CHAT] An unknown error occurred while attempting to perform this command
+2017-04-15 17:40:24 [CLIENT] [INFO] Setting user: Player886
+2017-04-15 17:40:25 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2017-04-15 17:40:25 [CLIENT] [INFO] Reloading ResourceManager: Default
+2017-04-15 17:40:27 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Dynamic mod, FMLFileResourcePack:Example Mod
+2017-04-15 17:40:28 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4257_retrogocat.png
+2017-04-15 17:40:28 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4256_otherfilecat.png
+2017-04-15 17:40:28 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Dynamic mod, FMLFileResourcePack:Example Mod
+2017-04-15 17:40:28 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4257_retrogocat.png
+2017-04-15 17:40:28 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4256_otherfilecat.png
+2017-04-15 17:40:29 [CLIENT] [SEVERE] Realms: Server not available!
+2017-04-15 17:42:57 [CLIENT] [INFO] Stopping!
+2017-04-15 17:45:17 [CLIENT] [INFO] Setting user: Player215
+2017-04-15 17:45:17 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2017-04-15 17:45:18 [CLIENT] [INFO] Reloading ResourceManager: Default
+2017-04-15 17:45:19 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Dynamic mod, FMLFileResourcePack:Example Mod
+2017-04-15 17:45:20 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4257_retrogocat.png
+2017-04-15 17:45:20 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4256_otherfilecat.png
+2017-04-15 17:45:20 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Dynamic mod, FMLFileResourcePack:Example Mod
+2017-04-15 17:45:20 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4257_retrogocat.png
+2017-04-15 17:45:20 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4256_otherfilecat.png
+2017-04-15 17:45:21 [CLIENT] [SEVERE] Realms: Server not available!
+2017-04-15 17:46:53 [CLIENT] [INFO] Stopping!
+2017-04-15 19:44:07 [CLIENT] [INFO] Setting user: Player994
+2017-04-15 19:44:07 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2017-04-15 19:44:07 [CLIENT] [INFO] Reloading ResourceManager: Default
+2017-04-15 19:44:09 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Dynamic mod, FMLFileResourcePack:Example Mod
+2017-04-15 19:44:10 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4257_retrogocat.png
+2017-04-15 19:44:10 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4256_otherfilecat.png
+2017-04-15 19:44:10 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Dynamic mod, FMLFileResourcePack:Example Mod
+2017-04-15 19:44:10 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4257_retrogocat.png
+2017-04-15 19:44:10 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4256_otherfilecat.png
+2017-04-15 19:44:11 [CLIENT] [SEVERE] Realms: Server not available!
+2017-04-15 19:44:23 [CLIENT] [INFO] Stopping!

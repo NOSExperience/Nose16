@@ -1,0 +1,399 @@
+2017-04-15 19:44:05 [INFO] [ForgeModLoader] Forge Mod Loader version 6.99.19.963 for Minecraft 1.6.4 loading
+2017-04-15 19:44:05 [INFO] [ForgeModLoader] Java is Java HotSpot(TM) 64-Bit Server VM, version 1.7.0_79, running on Linux:amd64:4.4.0-66-generic, installed at /home/beck/Downloads/jre1.7.0_79
+2017-04-15 19:44:05 [FINE] [ForgeModLoader] Java classpath at launch is /home/beck/NoseMod/eclipse/Nose/bin:/home/beck/Downloads/Forge164/bin:/home/beck/.gradle/caches/artifacts-26/filestore/net.minecraft/launchwrapper/1.8/jar/d4c0895977dd7f0b3f56281cee53a64d4c0c0322/launchwrapper-1.8.jar:/home/beck/.gradle/caches/artifacts-26/filestore/org.ow2.asm/asm-debug-all/4.1/jar/dd6ba5c392d4102458494e29f54f70ac534ec2a2/asm-debug-all-4.1.jar:/home/beck/.gradle/caches/artifacts-26/filestore/org.scala-lang/scala-library/2.10.2/jar/6ba65d12cd09d441083262d6f73d2257fec7c663/scala-library-2.10.2.jar:/home/beck/.gradle/caches/artifacts-26/filestore/org.scala-lang/scala-compiler/2.10.2/jar/64c8b1380cc53d6850823d6e4e7ae984aa44ef9c/scala-compiler-2.10.2.jar:/home/beck/.gradle/caches/artifacts-26/filestore/net.sf.jopt-simple/jopt-simple/4.5/jar/6065cc95c661255349c1d0756657be17c29a4fd3/jopt-simple-4.5.jar:/home/beck/.gradle/caches/artifacts-26/filestore/lzma/lzma/0.0.1/jar/521616dc7487b42bef0e803bd2fa3faf668101d7/lzma-0.0.1.jar:/home/beck/.gradle/caches/artifacts-26/filestore/com.paulscode/codecjorbis/20101023/jar/c73b5636faf089d9f00e8732a829577de25237ee/codecjorbis-20101023.jar:/home/beck/.gradle/caches/artifacts-26/filestore/com.paulscode/codecwav/20101023/jar/12f031cfe88fef5c1dd36c563c0a3a69bd7261da/codecwav-20101023.jar:/home/beck/.gradle/caches/artifacts-26/filestore/com.paulscode/libraryjavasound/20101123/jar/5c5e304366f75f9eaa2e8cca546a1fb6109348b3/libraryjavasound-20101123.jar:/home/beck/.gradle/caches/artifacts-26/filestore/com.paulscode/librarylwjglopenal/20100824/jar/73e80d0794c39665aec3f62eee88ca91676674ef/librarylwjglopenal-20100824.jar:/home/beck/.gradle/caches/artifacts-26/filestore/com.paulscode/soundsystem/20120107/jar/419c05fe9be71f792b2d76cfc9b67f1ed0fec7f6/soundsystem-20120107.jar:/home/beck/.gradle/caches/artifacts-26/filestore/org.lwjgl.lwjgl/lwjgl/2.9.0/jar/5654d06e61a1bba7ae1e7f5233e1106be64c91cd/lwjgl-2.9.0.jar:/home/beck/.gradle/caches/artifacts-26/filestore/org.lwjgl.lwjgl/lwjgl_util/2.9.0/jar/a778846b64008fc7f48ead2377f034e547991699/lwjgl_util-2.9.0.jar:/home/beck/.gradle/caches/artifacts-26/filestore/argo/argo/2.25_fixed/jar/751761ce15a3e3aaf3fc75b9f013ff8f7b88a585/argo-2.25_fixed.jar:/home/beck/.gradle/caches/artifacts-26/filestore/net.sourceforge.argo/argo/2.25/jar/751761ce15a3e3aaf3fc75b9f013ff8f7b88a585/argo-2.25.jar:/home/beck/.gradle/caches/artifacts-26/filestore/org.bouncycastle/bcprov-jdk15on/1.47/jar/b6f5d9926b0afbde9f4dbe3db88c5247be7794bb/bcprov-jdk15on-1.47.jar:/home/beck/.gradle/caches/artifacts-26/filestore/com.google.guava/guava/14.0/bundle/67b7be4ee7ba48e4828a42d6d5069761186d4a53/guava-14.0.jar:/home/beck/.gradle/caches/artifacts-26/filestore/org.apache.commons/commons-lang3/3.1/jar/905075e6c80f206bbe6cf1e809d2caa69f420c76/commons-lang3-3.1.jar:/home/beck/.gradle/caches/artifacts-26/filestore/commons-io/commons-io/2.4/jar/b1b6ea3b7e4aa4f492509a4952029cd8e48019ad/commons-io-2.4.jar:/home/beck/.gradle/caches/artifacts-26/filestore/net.java.jinput/jinput/2.0.5/jar/39c7796b469a600f72380316f6b1f11db6c2c7c4/jinput-2.0.5.jar:/home/beck/.gradle/caches/artifacts-26/filestore/net.java.jutils/jutils/1.0.0/jar/e12fe1fda814bd348c1579329c86943d2cd3c6a6/jutils-1.0.0.jar:/home/beck/.gradle/caches/artifacts-26/filestore/com.google.code.gson/gson/2.2.2/jar/1f96456ca233dec780aa224bff076d8e8bca3908/gson-2.2.2.jar:/home/beck/.gradle/caches/artifacts-26/filestore/org.lwjgl.lwjgl/lwjgl-platform/2.9.0/jar/2ba5dcb11048147f1a74eff2deb192c001321f77/lwjgl-platform-2.9.0-natives-linux.jar:/home/beck/.gradle/caches/artifacts-26/filestore/org.lwjgl.lwjgl/lwjgl-platform/2.9.0/jar/6621b382cb14cc409b041d8d72829156a87c31aa/lwjgl-platform-2.9.0-natives-osx.jar:/home/beck/.gradle/caches/artifacts-26/filestore/org.lwjgl.lwjgl/lwjgl-platform/2.9.0/jar/3f11873dc8e84c854ec7c5a8fd2e869f8aaef764/lwjgl-platform-2.9.0-natives-windows.jar:/home/beck/.gradle/caches/artifacts-26/filestore/net.java.jinput/jinput-platform/2.0.5/jar/7ff832a6eb9ab6a767f1ade2b548092d0fa64795/jinput-platform-2.0.5-natives-linux.jar:/home/beck/.gradle/caches/artifacts-26/filestore/net.java.jinput/jinput-platform/2.0.5/jar/53f9c919f34d2ca9de8c51fc4e1e8282029a9232/jinput-platform-2.0.5-natives-osx.jar:/home/beck/.gradle/caches/artifacts-26/filestore/net.java.jinput/jinput-platform/2.0.5/jar/385ee093e01f587f30ee1c8a2ee7d408fd732e16/jinput-platform-2.0.5-natives-windows.jar:/home/beck/.gradle/caches/artifacts-26/filestore/org.scala-lang/scala-reflect/2.10.2/jar/444ff8e89a81697997ed8a98a4642ba283130249/scala-reflect-2.10.2.jar:/home/beck/.gradle/caches/minecraft/net/minecraftforge/forge/1.6.4-9.11.1.963/forge-1.6.4-9.11.1.963-mcp.jar
+2017-04-15 19:44:05 [FINE] [ForgeModLoader] Java library path at launch is /home/beck/Downloads/Forge164/build/natives:/home/beck/Downloads/Forge164/build/natives:/home/beck/Downloads/Forge164/build/natives:/home/beck/Downloads/Forge164/build/natives:/home/beck/Downloads/Forge164/build/natives:/home/beck/Downloads/Forge164/build/natives:/home/beck/Downloads/Forge164/build/natives:/home/beck/Downloads/Forge164/build/natives:/home/beck/Downloads/Forge164/build/natives:/home/beck/Downloads/Forge164/build/natives
+2017-04-15 19:44:05 [INFO] [ForgeModLoader] Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+2017-04-15 19:44:05 [FINE] [ForgeModLoader] Instantiating coremod class FMLCorePlugin
+2017-04-15 19:44:05 [FINE] [ForgeModLoader] Enqueued coremod FMLCorePlugin
+2017-04-15 19:44:05 [FINE] [ForgeModLoader] Instantiating coremod class FMLForgePlugin
+2017-04-15 19:44:05 [FINE] [ForgeModLoader] Enqueued coremod FMLForgePlugin
+2017-04-15 19:44:05 [FINE] [ForgeModLoader] All fundamental core mods are successfully located
+2017-04-15 19:44:05 [FINE] [ForgeModLoader] Discovering coremods
+2017-04-15 19:44:05 [INFO] [ForgeModLoader] Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+2017-04-15 19:44:05 [INFO] [ForgeModLoader] Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+2017-04-15 19:44:05 [INFO] [ForgeModLoader] Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+2017-04-15 19:44:05 [INFO] [ForgeModLoader] Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+2017-04-15 19:44:05 [INFO] [ForgeModLoader] Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+2017-04-15 19:44:05 [FINE] [ForgeModLoader] Injecting coremod FMLCorePlugin {cpw.mods.fml.relauncher.FMLCorePlugin} class transformers
+2017-04-15 19:44:05 [FINEST] [ForgeModLoader] Registering transformer cpw.mods.fml.common.asm.transformers.AccessTransformer
+2017-04-15 19:44:05 [INFO] [STDOUT] Loaded 40 rules from AccessTransformer config file fml_at.cfg
+2017-04-15 19:44:05 [FINEST] [ForgeModLoader] Registering transformer cpw.mods.fml.common.asm.transformers.MarkerTransformer
+2017-04-15 19:44:05 [FINEST] [ForgeModLoader] Registering transformer cpw.mods.fml.common.asm.transformers.SideTransformer
+2017-04-15 19:44:05 [FINE] [ForgeModLoader] Injection complete
+2017-04-15 19:44:05 [FINE] [ForgeModLoader] Running coremod plugin for FMLCorePlugin {cpw.mods.fml.relauncher.FMLCorePlugin}
+2017-04-15 19:44:05 [FINE] [ForgeModLoader] Running coremod plugin FMLCorePlugin
+2017-04-15 19:44:05 [SEVERE] [ForgeModLoader] The binary patch set is missing. Either you are in a development environment, or things are not going to work!
+2017-04-15 19:44:06 [SEVERE] [ForgeModLoader] The minecraft jar file:/home/beck/.gradle/caches/minecraft/net/minecraftforge/forge/1.6.4-9.11.1.963/forge-1.6.4-9.11.1.963-mcp.jar!/net/minecraft/client/ClientBrandRetriever.class appears to be corrupt! There has been CRITICAL TAMPERING WITH MINECRAFT, it is highly unlikely minecraft will work! STOP NOW, get a clean copy and try again!
+2017-04-15 19:44:06 [SEVERE] [ForgeModLoader] FML has been ordered to ignore the invalid or missing minecraft certificate. This is very likely to cause a problem!
+2017-04-15 19:44:06 [SEVERE] [ForgeModLoader] Technical information: ClientBrandRetriever was at jar:file:/home/beck/.gradle/caches/minecraft/net/minecraftforge/forge/1.6.4-9.11.1.963/forge-1.6.4-9.11.1.963-mcp.jar!/net/minecraft/client/ClientBrandRetriever.class, there were 0 certificates for it
+2017-04-15 19:44:06 [SEVERE] [ForgeModLoader] FML appears to be missing any signature data. This is not a good thing
+2017-04-15 19:44:06 [FINE] [ForgeModLoader] Coremod plugin class FMLCorePlugin run successfully
+2017-04-15 19:44:06 [INFO] [ForgeModLoader] Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+2017-04-15 19:44:06 [FINE] [ForgeModLoader] Injecting coremod FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin} class transformers
+2017-04-15 19:44:06 [FINEST] [ForgeModLoader] Registering transformer net.minecraftforge.transformers.ForgeAccessTransformer
+2017-04-15 19:44:06 [INFO] [STDOUT] Loaded 110 rules from AccessTransformer config file forge_at.cfg
+2017-04-15 19:44:06 [FINEST] [ForgeModLoader] Registering transformer net.minecraftforge.transformers.EventTransformer
+2017-04-15 19:44:06 [FINE] [ForgeModLoader] Injection complete
+2017-04-15 19:44:06 [FINE] [ForgeModLoader] Running coremod plugin for FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin}
+2017-04-15 19:44:06 [FINE] [ForgeModLoader] Running coremod plugin FMLForgePlugin
+2017-04-15 19:44:06 [FINE] [ForgeModLoader] Coremod plugin class FMLForgePlugin run successfully
+2017-04-15 19:44:06 [INFO] [ForgeModLoader] Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+2017-04-15 19:44:06 [FINE] [ForgeModLoader] Validating minecraft
+2017-04-15 19:44:06 [FINE] [ForgeModLoader] Minecraft validated, launching...
+2017-04-15 19:44:06 [INFO] [ForgeModLoader] Launching wrapped minecraft {net.minecraft.client.main.Main}
+2017-04-15 19:44:07 [INFO] [Minecraft-Client] Setting user: Player994
+2017-04-15 19:44:07 [INFO] [STDOUT] Completely ignored arguments: [--accessToken, modstest]
+2017-04-15 19:44:07 [INFO] [Minecraft-Client] LWJGL Version: 2.9.0
+2017-04-15 19:44:07 [INFO] [STDERR] javax.imageio.IIOException: Can't read input file!
+2017-04-15 19:44:07 [INFO] [STDERR] 	at javax.imageio.ImageIO.read(Unknown Source)
+2017-04-15 19:44:07 [INFO] [STDERR] 	at net.minecraft.client.Minecraft.readImage(Minecraft.java:558)
+2017-04-15 19:44:07 [INFO] [STDERR] 	at net.minecraft.client.Minecraft.startGame(Minecraft.java:419)
+2017-04-15 19:44:07 [INFO] [STDERR] 	at net.minecraft.client.Minecraft.run(Minecraft.java:808)
+2017-04-15 19:44:07 [INFO] [STDERR] 	at net.minecraft.client.main.Main.main(Main.java:101)
+2017-04-15 19:44:07 [INFO] [STDERR] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2017-04-15 19:44:07 [INFO] [STDERR] 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+2017-04-15 19:44:07 [INFO] [STDERR] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2017-04-15 19:44:07 [INFO] [STDERR] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2017-04-15 19:44:07 [INFO] [STDERR] 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131)
+2017-04-15 19:44:07 [INFO] [STDERR] 	at net.minecraft.launchwrapper.Launch.main(Launch.java:27)
+2017-04-15 19:44:07 [INFO] [Minecraft-Client] Reloading ResourceManager: Default
+2017-04-15 19:44:08 [INFO] [MinecraftForge] Attempting early MinecraftForge initialization
+2017-04-15 19:44:08 [INFO] [STDOUT] MinecraftForge v9.11.1.963 Initialized
+2017-04-15 19:44:08 [INFO] [ForgeModLoader] MinecraftForge v9.11.1.963 Initialized
+2017-04-15 19:44:08 [INFO] [STDOUT] Replaced 112 ore recipies
+2017-04-15 19:44:08 [INFO] [MinecraftForge] Completed early MinecraftForge initialization
+2017-04-15 19:44:08 [INFO] [ForgeModLoader] Reading custom logging properties from /home/beck/NoseMod/eclipse/Nose/config/logging.properties
+2017-04-15 19:44:08 [OFF] [ForgeModLoader] Logging level for ForgeModLoader logging is set to ALL
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Building injected Mod Containers [cpw.mods.fml.common.FMLDummyContainer, net.minecraftforge.common.ForgeDummyContainer]
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Attempting to load mods contained in the minecraft jar file and associated classes
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Found a minecraft related directory at /home/beck/NoseMod/eclipse/Nose/bin, examining for mod candidates
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Found a minecraft related directory at /home/beck/Downloads/Forge164/bin, examining for mod candidates
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Found a minecraft related file at /home/beck/.gradle/caches/artifacts-26/filestore/net.minecraft/launchwrapper/1.8/jar/d4c0895977dd7f0b3f56281cee53a64d4c0c0322/launchwrapper-1.8.jar, examining for mod candidates
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Found a minecraft related file at /home/beck/.gradle/caches/artifacts-26/filestore/org.ow2.asm/asm-debug-all/4.1/jar/dd6ba5c392d4102458494e29f54f70ac534ec2a2/asm-debug-all-4.1.jar, examining for mod candidates
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Found a minecraft related file at /home/beck/.gradle/caches/artifacts-26/filestore/org.scala-lang/scala-library/2.10.2/jar/6ba65d12cd09d441083262d6f73d2257fec7c663/scala-library-2.10.2.jar, examining for mod candidates
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Found a minecraft related file at /home/beck/.gradle/caches/artifacts-26/filestore/org.scala-lang/scala-compiler/2.10.2/jar/64c8b1380cc53d6850823d6e4e7ae984aa44ef9c/scala-compiler-2.10.2.jar, examining for mod candidates
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Found a minecraft related file at /home/beck/.gradle/caches/artifacts-26/filestore/net.sf.jopt-simple/jopt-simple/4.5/jar/6065cc95c661255349c1d0756657be17c29a4fd3/jopt-simple-4.5.jar, examining for mod candidates
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Found a minecraft related file at /home/beck/.gradle/caches/artifacts-26/filestore/lzma/lzma/0.0.1/jar/521616dc7487b42bef0e803bd2fa3faf668101d7/lzma-0.0.1.jar, examining for mod candidates
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Found a minecraft related file at /home/beck/.gradle/caches/artifacts-26/filestore/com.paulscode/codecjorbis/20101023/jar/c73b5636faf089d9f00e8732a829577de25237ee/codecjorbis-20101023.jar, examining for mod candidates
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Found a minecraft related file at /home/beck/.gradle/caches/artifacts-26/filestore/com.paulscode/codecwav/20101023/jar/12f031cfe88fef5c1dd36c563c0a3a69bd7261da/codecwav-20101023.jar, examining for mod candidates
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Found a minecraft related file at /home/beck/.gradle/caches/artifacts-26/filestore/com.paulscode/libraryjavasound/20101123/jar/5c5e304366f75f9eaa2e8cca546a1fb6109348b3/libraryjavasound-20101123.jar, examining for mod candidates
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Found a minecraft related file at /home/beck/.gradle/caches/artifacts-26/filestore/com.paulscode/librarylwjglopenal/20100824/jar/73e80d0794c39665aec3f62eee88ca91676674ef/librarylwjglopenal-20100824.jar, examining for mod candidates
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Found a minecraft related file at /home/beck/.gradle/caches/artifacts-26/filestore/com.paulscode/soundsystem/20120107/jar/419c05fe9be71f792b2d76cfc9b67f1ed0fec7f6/soundsystem-20120107.jar, examining for mod candidates
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Found a minecraft related file at /home/beck/.gradle/caches/artifacts-26/filestore/org.lwjgl.lwjgl/lwjgl/2.9.0/jar/5654d06e61a1bba7ae1e7f5233e1106be64c91cd/lwjgl-2.9.0.jar, examining for mod candidates
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Found a minecraft related file at /home/beck/.gradle/caches/artifacts-26/filestore/org.lwjgl.lwjgl/lwjgl_util/2.9.0/jar/a778846b64008fc7f48ead2377f034e547991699/lwjgl_util-2.9.0.jar, examining for mod candidates
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Found a minecraft related file at /home/beck/.gradle/caches/artifacts-26/filestore/argo/argo/2.25_fixed/jar/751761ce15a3e3aaf3fc75b9f013ff8f7b88a585/argo-2.25_fixed.jar, examining for mod candidates
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Found a minecraft related file at /home/beck/.gradle/caches/artifacts-26/filestore/net.sourceforge.argo/argo/2.25/jar/751761ce15a3e3aaf3fc75b9f013ff8f7b88a585/argo-2.25.jar, examining for mod candidates
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Found a minecraft related file at /home/beck/.gradle/caches/artifacts-26/filestore/org.bouncycastle/bcprov-jdk15on/1.47/jar/b6f5d9926b0afbde9f4dbe3db88c5247be7794bb/bcprov-jdk15on-1.47.jar, examining for mod candidates
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Found a minecraft related file at /home/beck/.gradle/caches/artifacts-26/filestore/com.google.guava/guava/14.0/bundle/67b7be4ee7ba48e4828a42d6d5069761186d4a53/guava-14.0.jar, examining for mod candidates
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Found a minecraft related file at /home/beck/.gradle/caches/artifacts-26/filestore/org.apache.commons/commons-lang3/3.1/jar/905075e6c80f206bbe6cf1e809d2caa69f420c76/commons-lang3-3.1.jar, examining for mod candidates
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Found a minecraft related file at /home/beck/.gradle/caches/artifacts-26/filestore/commons-io/commons-io/2.4/jar/b1b6ea3b7e4aa4f492509a4952029cd8e48019ad/commons-io-2.4.jar, examining for mod candidates
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Found a minecraft related file at /home/beck/.gradle/caches/artifacts-26/filestore/net.java.jinput/jinput/2.0.5/jar/39c7796b469a600f72380316f6b1f11db6c2c7c4/jinput-2.0.5.jar, examining for mod candidates
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Found a minecraft related file at /home/beck/.gradle/caches/artifacts-26/filestore/net.java.jutils/jutils/1.0.0/jar/e12fe1fda814bd348c1579329c86943d2cd3c6a6/jutils-1.0.0.jar, examining for mod candidates
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Found a minecraft related file at /home/beck/.gradle/caches/artifacts-26/filestore/com.google.code.gson/gson/2.2.2/jar/1f96456ca233dec780aa224bff076d8e8bca3908/gson-2.2.2.jar, examining for mod candidates
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Found a minecraft related file at /home/beck/.gradle/caches/artifacts-26/filestore/org.lwjgl.lwjgl/lwjgl-platform/2.9.0/jar/2ba5dcb11048147f1a74eff2deb192c001321f77/lwjgl-platform-2.9.0-natives-linux.jar, examining for mod candidates
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Found a minecraft related file at /home/beck/.gradle/caches/artifacts-26/filestore/org.lwjgl.lwjgl/lwjgl-platform/2.9.0/jar/6621b382cb14cc409b041d8d72829156a87c31aa/lwjgl-platform-2.9.0-natives-osx.jar, examining for mod candidates
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Found a minecraft related file at /home/beck/.gradle/caches/artifacts-26/filestore/org.lwjgl.lwjgl/lwjgl-platform/2.9.0/jar/3f11873dc8e84c854ec7c5a8fd2e869f8aaef764/lwjgl-platform-2.9.0-natives-windows.jar, examining for mod candidates
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Found a minecraft related file at /home/beck/.gradle/caches/artifacts-26/filestore/net.java.jinput/jinput-platform/2.0.5/jar/7ff832a6eb9ab6a767f1ade2b548092d0fa64795/jinput-platform-2.0.5-natives-linux.jar, examining for mod candidates
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Found a minecraft related file at /home/beck/.gradle/caches/artifacts-26/filestore/net.java.jinput/jinput-platform/2.0.5/jar/53f9c919f34d2ca9de8c51fc4e1e8282029a9232/jinput-platform-2.0.5-natives-osx.jar, examining for mod candidates
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Found a minecraft related file at /home/beck/.gradle/caches/artifacts-26/filestore/net.java.jinput/jinput-platform/2.0.5/jar/385ee093e01f587f30ee1c8a2ee7d408fd732e16/jinput-platform-2.0.5-natives-windows.jar, examining for mod candidates
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Found a minecraft related file at /home/beck/.gradle/caches/artifacts-26/filestore/org.scala-lang/scala-reflect/2.10.2/jar/444ff8e89a81697997ed8a98a4642ba283130249/scala-reflect-2.10.2.jar, examining for mod candidates
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Found a minecraft related file at /home/beck/.gradle/caches/minecraft/net/minecraftforge/forge/1.6.4-9.11.1.963/forge-1.6.4-9.11.1.963-mcp.jar, examining for mod candidates
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Minecraft jar mods loaded successfully
+2017-04-15 19:44:08 [INFO] [ForgeModLoader] Searching /home/beck/NoseMod/eclipse/Nose/mods for mods
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Examining directory bin for potential mods
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Found an mcmod.info file in directory bin
+2017-04-15 19:44:08 [FINEST] [ForgeModLoader] Recursing into package assets
+2017-04-15 19:44:08 [FINEST] [ForgeModLoader] Recursing into package assets.nose
+2017-04-15 19:44:08 [FINEST] [ForgeModLoader] Recursing into package assets.nose.textures
+2017-04-15 19:44:08 [FINEST] [ForgeModLoader] Recursing into package assets.nose.textures.items
+2017-04-15 19:44:08 [FINEST] [ForgeModLoader] Recursing into package tk
+2017-04-15 19:44:08 [FINEST] [ForgeModLoader] Recursing into package tk.fmmc
+2017-04-15 19:44:08 [FINEST] [ForgeModLoader] Recursing into package tk.fmmc.nose
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Identified an FMLMod type mod tk.fmmc.nose.Main
+2017-04-15 19:44:08 [FINEST] [nose] Parsed dependency info : [] [] []
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Examining directory bin for potential mods
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Found an mcmod.info file in directory bin
+2017-04-15 19:44:08 [FINEST] [ForgeModLoader] Recursing into package com
+2017-04-15 19:44:08 [FINEST] [ForgeModLoader] Recursing into package com.example
+2017-04-15 19:44:08 [FINEST] [ForgeModLoader] Recursing into package com.example.examplemod
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Identified an FMLMod type mod com.example.examplemod.ExampleMod
+2017-04-15 19:44:08 [FINEST] [examplemod] Parsed dependency info : [] [] []
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Examining file launchwrapper-1.8.jar for potential mods
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] The mod container launchwrapper-1.8.jar appears to be missing an mcmod.info file
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Examining file asm-debug-all-4.1.jar for potential mods
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] The mod container asm-debug-all-4.1.jar appears to be missing an mcmod.info file
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Examining file scala-library-2.10.2.jar for potential mods
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] The mod container scala-library-2.10.2.jar appears to be missing an mcmod.info file
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Examining file scala-compiler-2.10.2.jar for potential mods
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] The mod container scala-compiler-2.10.2.jar appears to be missing an mcmod.info file
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Examining file jopt-simple-4.5.jar for potential mods
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] The mod container jopt-simple-4.5.jar appears to be missing an mcmod.info file
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Examining file lzma-0.0.1.jar for potential mods
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] The mod container lzma-0.0.1.jar appears to be missing an mcmod.info file
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Examining file codecjorbis-20101023.jar for potential mods
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] The mod container codecjorbis-20101023.jar appears to be missing an mcmod.info file
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Examining file codecwav-20101023.jar for potential mods
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] The mod container codecwav-20101023.jar appears to be missing an mcmod.info file
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Examining file libraryjavasound-20101123.jar for potential mods
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] The mod container libraryjavasound-20101123.jar appears to be missing an mcmod.info file
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Examining file librarylwjglopenal-20100824.jar for potential mods
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] The mod container librarylwjglopenal-20100824.jar appears to be missing an mcmod.info file
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Examining file soundsystem-20120107.jar for potential mods
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] The mod container soundsystem-20120107.jar appears to be missing an mcmod.info file
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] Examining file lwjgl-2.9.0.jar for potential mods
+2017-04-15 19:44:08 [FINE] [ForgeModLoader] The mod container lwjgl-2.9.0.jar appears to be missing an mcmod.info file
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] Examining file lwjgl_util-2.9.0.jar for potential mods
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] The mod container lwjgl_util-2.9.0.jar appears to be missing an mcmod.info file
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] Examining file argo-2.25_fixed.jar for potential mods
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] The mod container argo-2.25_fixed.jar appears to be missing an mcmod.info file
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] Examining file argo-2.25.jar for potential mods
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] The mod container argo-2.25.jar appears to be missing an mcmod.info file
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] Examining file bcprov-jdk15on-1.47.jar for potential mods
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] The mod container bcprov-jdk15on-1.47.jar appears to be missing an mcmod.info file
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] Examining file guava-14.0.jar for potential mods
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] The mod container guava-14.0.jar appears to be missing an mcmod.info file
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] Examining file commons-lang3-3.1.jar for potential mods
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] The mod container commons-lang3-3.1.jar appears to be missing an mcmod.info file
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] Examining file commons-io-2.4.jar for potential mods
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] The mod container commons-io-2.4.jar appears to be missing an mcmod.info file
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] Examining file jinput-2.0.5.jar for potential mods
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] The mod container jinput-2.0.5.jar appears to be missing an mcmod.info file
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] Examining file jutils-1.0.0.jar for potential mods
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] The mod container jutils-1.0.0.jar appears to be missing an mcmod.info file
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] Examining file gson-2.2.2.jar for potential mods
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] The mod container gson-2.2.2.jar appears to be missing an mcmod.info file
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] Examining file lwjgl-platform-2.9.0-natives-linux.jar for potential mods
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] The mod container lwjgl-platform-2.9.0-natives-linux.jar appears to be missing an mcmod.info file
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] Examining file lwjgl-platform-2.9.0-natives-osx.jar for potential mods
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] The mod container lwjgl-platform-2.9.0-natives-osx.jar appears to be missing an mcmod.info file
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] Examining file lwjgl-platform-2.9.0-natives-windows.jar for potential mods
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] The mod container lwjgl-platform-2.9.0-natives-windows.jar appears to be missing an mcmod.info file
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] Examining file jinput-platform-2.0.5-natives-linux.jar for potential mods
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] The mod container jinput-platform-2.0.5-natives-linux.jar appears to be missing an mcmod.info file
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] Examining file jinput-platform-2.0.5-natives-osx.jar for potential mods
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] The mod container jinput-platform-2.0.5-natives-osx.jar appears to be missing an mcmod.info file
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] Examining file jinput-platform-2.0.5-natives-windows.jar for potential mods
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] The mod container jinput-platform-2.0.5-natives-windows.jar appears to be missing an mcmod.info file
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] Examining file scala-reflect-2.10.2.jar for potential mods
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] The mod container scala-reflect-2.10.2.jar appears to be missing an mcmod.info file
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] Examining file forge-1.6.4-9.11.1.963-mcp.jar for potential mods
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] The mod container forge-1.6.4-9.11.1.963-mcp.jar appears to be missing an mcmod.info file
+2017-04-15 19:44:09 [SEVERE] [ForgeModLoader] FML has detected a mod that is using a package name based on 'net.minecraft.src' : net.minecraft.src.Start. This is generally a severe programming error.  There should be no mod code in the minecraft namespace. MOVE YOUR MOD! If you're in eclipse, select your source code and 'refactor' it into a new package. Go on. DO IT NOW!
+2017-04-15 19:44:09 [SEVERE] [ForgeModLoader] FML has detected a mod that is using a package name based on 'net.minecraft.src' : net.minecraft.src.FMLRenderAccessLibrary. This is generally a severe programming error.  There should be no mod code in the minecraft namespace. MOVE YOUR MOD! If you're in eclipse, select your source code and 'refactor' it into a new package. Go on. DO IT NOW!
+2017-04-15 19:44:09 [INFO] [ForgeModLoader] Forge Mod Loader has identified 5 mods to load
+2017-04-15 19:44:09 [FINER] [ForgeModLoader] Received a system property request ''
+2017-04-15 19:44:09 [FINER] [ForgeModLoader] System property request managing the state of 0 mods
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] After merging, found state information for 0 mods
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] Reloading logging properties from /home/beck/NoseMod/eclipse/Nose/config/logging.properties
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] Reloaded logging properties
+2017-04-15 19:44:09 [FINE] [mcp] Mod Logging channel mcp configured at default level.
+2017-04-15 19:44:09 [INFO] [mcp] Activating mod mcp
+2017-04-15 19:44:09 [FINE] [FML] Mod Logging channel FML configured at default level.
+2017-04-15 19:44:09 [INFO] [FML] Activating mod FML
+2017-04-15 19:44:09 [FINE] [Forge] Mod Logging channel Forge configured at default level.
+2017-04-15 19:44:09 [INFO] [Forge] Activating mod Forge
+2017-04-15 19:44:09 [FINE] [nose] Enabling mod nose
+2017-04-15 19:44:09 [FINE] [nose] Mod Logging channel nose configured at default level.
+2017-04-15 19:44:09 [INFO] [nose] Activating mod nose
+2017-04-15 19:44:09 [FINE] [examplemod] Enabling mod examplemod
+2017-04-15 19:44:09 [FINE] [examplemod] Mod Logging channel examplemod configured at default level.
+2017-04-15 19:44:09 [INFO] [examplemod] Activating mod examplemod
+2017-04-15 19:44:09 [WARNING] [Dynamic mod] Mod Dynamic mod is missing a pack.mcmeta file, things may not work well
+2017-04-15 19:44:09 [WARNING] [Example Mod] Mod Example Mod is missing a pack.mcmeta file, things may not work well
+2017-04-15 19:44:09 [INFO] [Minecraft-Client] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Dynamic mod, FMLFileResourcePack:Example Mod
+2017-04-15 19:44:09 [FINER] [ForgeModLoader] Verifying mod requirements are satisfied
+2017-04-15 19:44:09 [FINER] [ForgeModLoader] All mod requirements are satisfied
+2017-04-15 19:44:09 [FINER] [ForgeModLoader] Sorting mods into an ordered list
+2017-04-15 19:44:09 [FINER] [ForgeModLoader] Mod sorting completed successfully
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] Mod sorting data
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] 	nose(Dynamic mod:0.1): bin ()
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] 	examplemod(Example Mod:1.0): bin ()
+2017-04-15 19:44:09 [FINEST] [mcp] Sending event FMLConstructionEvent to mod mcp
+2017-04-15 19:44:09 [FINEST] [mcp] Sent event FMLConstructionEvent to mod mcp
+2017-04-15 19:44:09 [FINEST] [FML] Sending event FMLConstructionEvent to mod FML
+2017-04-15 19:44:09 [FINEST] [FML] Sent event FMLConstructionEvent to mod FML
+2017-04-15 19:44:09 [FINEST] [Forge] Sending event FMLConstructionEvent to mod Forge
+2017-04-15 19:44:09 [INFO] [ForgeModLoader] Registering Forge Packet Handler
+2017-04-15 19:44:09 [FINEST] [ForgeModLoader] Testing mod Forge to verify it accepts its own version in a remote connection
+2017-04-15 19:44:09 [FINEST] [ForgeModLoader] The mod Forge accepts its own version (9.11.1.963)
+2017-04-15 19:44:09 [INFO] [ForgeModLoader] Succeeded registering Forge Packet Handler
+2017-04-15 19:44:09 [FINEST] [Forge] Sent event FMLConstructionEvent to mod Forge
+2017-04-15 19:44:09 [FINEST] [nose] Sending event FMLConstructionEvent to mod nose
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into nose
+2017-04-15 19:44:09 [FINEST] [nose] Sent event FMLConstructionEvent to mod nose
+2017-04-15 19:44:09 [FINEST] [examplemod] Sending event FMLConstructionEvent to mod examplemod
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into examplemod
+2017-04-15 19:44:09 [FINEST] [examplemod] Sent event FMLConstructionEvent to mod examplemod
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] Mod signature data
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] 	mcp(Minecraft Coder Pack:8.09): minecraft.jar (NO VALID CERTIFICATE FOUND)
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] 	FML(Forge Mod Loader:6.99.19.963): forge-1.6.4-9.11.1.963-mcp.jar (NO VALID CERTIFICATE FOUND)
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] 	Forge(Minecraft Forge:9.11.1.963): forge-1.6.4-9.11.1.963-mcp.jar (NO VALID CERTIFICATE FOUND)
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] 	nose(Dynamic mod:0.1): bin (NO VALID CERTIFICATE FOUND)
+2017-04-15 19:44:09 [FINE] [ForgeModLoader] 	examplemod(Example Mod:1.0): bin (NO VALID CERTIFICATE FOUND)
+2017-04-15 19:44:09 [FINEST] [mcp] Sending event FMLPreInitializationEvent to mod mcp
+2017-04-15 19:44:09 [FINEST] [mcp] Sent event FMLPreInitializationEvent to mod mcp
+2017-04-15 19:44:09 [FINEST] [FML] Sending event FMLPreInitializationEvent to mod FML
+2017-04-15 19:44:09 [FINEST] [FML] Sent event FMLPreInitializationEvent to mod FML
+2017-04-15 19:44:09 [FINEST] [Forge] Sending event FMLPreInitializationEvent to mod Forge
+2017-04-15 19:44:09 [INFO] [ForgeModLoader] Configured a dormant chunk cache size of 0
+2017-04-15 19:44:09 [FINEST] [Forge] Sent event FMLPreInitializationEvent to mod Forge
+2017-04-15 19:44:09 [FINEST] [nose] Sending event FMLPreInitializationEvent to mod nose
+2017-04-15 19:44:09 [INFO] [STDOUT] test2.xml
+2017-04-15 19:44:09 [INFO] [STDOUT] itemList length: item: 2
+2017-04-15 19:44:09 [INFO] [STDOUT] itemList length: block: 0
+2017-04-15 19:44:09 [INFO] [STDOUT] otherfilecat: Other File Cat
+2017-04-15 19:44:09 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.Item(4256) owned by nose
+2017-04-15 19:44:09 [INFO] [STDOUT] retrogocat: retroGo Cat
+2017-04-15 19:44:09 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.Item(4257) owned by nose
+2017-04-15 19:44:09 [INFO] [STDOUT] test.xml
+2017-04-15 19:44:09 [INFO] [STDOUT] itemList length: item: 3
+2017-04-15 19:44:09 [INFO] [STDOUT] itemList length: block: 1
+2017-04-15 19:44:09 [INFO] [STDOUT] nyancat: Nyan Cat
+2017-04-15 19:44:09 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.Item(4258) owned by nose
+2017-04-15 19:44:09 [INFO] [STDOUT] derpycat: Derpy Cat
+2017-04-15 19:44:09 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.Item(4259) owned by nose
+2017-04-15 19:44:09 [INFO] [STDOUT] shadycat: Shady Cat
+2017-04-15 19:44:09 [FINE] [fml.ItemTracker] Adding item net.minecraft.item.Item(4260) owned by nose
+2017-04-15 19:44:09 [FINEST] [nose] Sent event FMLPreInitializationEvent to mod nose
+2017-04-15 19:44:09 [FINEST] [examplemod] Sending event FMLPreInitializationEvent to mod examplemod
+2017-04-15 19:44:09 [FINEST] [examplemod] Sent event FMLPreInitializationEvent to mod examplemod
+2017-04-15 19:44:10 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4257_retrogocat.png
+2017-04-15 19:44:10 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4256_otherfilecat.png
+2017-04-15 19:44:10 [FINEST] [mcp] Sending event FMLInitializationEvent to mod mcp
+2017-04-15 19:44:10 [FINEST] [mcp] Sent event FMLInitializationEvent to mod mcp
+2017-04-15 19:44:10 [FINEST] [FML] Sending event FMLInitializationEvent to mod FML
+2017-04-15 19:44:10 [FINEST] [FML] Sent event FMLInitializationEvent to mod FML
+2017-04-15 19:44:10 [FINEST] [Forge] Sending event FMLInitializationEvent to mod Forge
+2017-04-15 19:44:10 [FINEST] [Forge] Sent event FMLInitializationEvent to mod Forge
+2017-04-15 19:44:10 [FINEST] [nose] Sending event FMLInitializationEvent to mod nose
+2017-04-15 19:44:10 [FINEST] [nose] Sent event FMLInitializationEvent to mod nose
+2017-04-15 19:44:10 [FINEST] [examplemod] Sending event FMLInitializationEvent to mod examplemod
+2017-04-15 19:44:10 [INFO] [STDOUT] DIRT BLOCK >> tile.dirt
+2017-04-15 19:44:10 [FINEST] [examplemod] Sent event FMLInitializationEvent to mod examplemod
+2017-04-15 19:44:10 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod mcp
+2017-04-15 19:44:10 [FINEST] [mcp] Sending event IMCEvent to mod mcp
+2017-04-15 19:44:10 [FINEST] [mcp] Sent event IMCEvent to mod mcp
+2017-04-15 19:44:10 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod FML
+2017-04-15 19:44:10 [FINEST] [FML] Sending event IMCEvent to mod FML
+2017-04-15 19:44:10 [FINEST] [FML] Sent event IMCEvent to mod FML
+2017-04-15 19:44:10 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod Forge
+2017-04-15 19:44:10 [FINEST] [Forge] Sending event IMCEvent to mod Forge
+2017-04-15 19:44:10 [FINEST] [Forge] Sent event IMCEvent to mod Forge
+2017-04-15 19:44:10 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod nose
+2017-04-15 19:44:10 [FINEST] [nose] Sending event IMCEvent to mod nose
+2017-04-15 19:44:10 [FINEST] [nose] Sent event IMCEvent to mod nose
+2017-04-15 19:44:10 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod examplemod
+2017-04-15 19:44:10 [FINEST] [examplemod] Sending event IMCEvent to mod examplemod
+2017-04-15 19:44:10 [FINEST] [examplemod] Sent event IMCEvent to mod examplemod
+2017-04-15 19:44:10 [FINEST] [mcp] Sending event FMLPostInitializationEvent to mod mcp
+2017-04-15 19:44:10 [FINEST] [mcp] Sent event FMLPostInitializationEvent to mod mcp
+2017-04-15 19:44:10 [FINEST] [FML] Sending event FMLPostInitializationEvent to mod FML
+2017-04-15 19:44:10 [FINEST] [FML] Sent event FMLPostInitializationEvent to mod FML
+2017-04-15 19:44:10 [FINEST] [Forge] Sending event FMLPostInitializationEvent to mod Forge
+2017-04-15 19:44:10 [FINEST] [Forge] Sent event FMLPostInitializationEvent to mod Forge
+2017-04-15 19:44:10 [FINEST] [nose] Sending event FMLPostInitializationEvent to mod nose
+2017-04-15 19:44:10 [FINEST] [nose] Sent event FMLPostInitializationEvent to mod nose
+2017-04-15 19:44:10 [FINEST] [examplemod] Sending event FMLPostInitializationEvent to mod examplemod
+2017-04-15 19:44:10 [FINEST] [examplemod] Sent event FMLPostInitializationEvent to mod examplemod
+2017-04-15 19:44:10 [FINEST] [mcp] Sending event FMLLoadCompleteEvent to mod mcp
+2017-04-15 19:44:10 [FINEST] [mcp] Sent event FMLLoadCompleteEvent to mod mcp
+2017-04-15 19:44:10 [FINEST] [FML] Sending event FMLLoadCompleteEvent to mod FML
+2017-04-15 19:44:10 [FINEST] [FML] Sent event FMLLoadCompleteEvent to mod FML
+2017-04-15 19:44:10 [FINEST] [Forge] Sending event FMLLoadCompleteEvent to mod Forge
+2017-04-15 19:44:10 [FINEST] [Forge] Sent event FMLLoadCompleteEvent to mod Forge
+2017-04-15 19:44:10 [FINEST] [nose] Sending event FMLLoadCompleteEvent to mod nose
+2017-04-15 19:44:10 [FINEST] [nose] Sent event FMLLoadCompleteEvent to mod nose
+2017-04-15 19:44:10 [FINEST] [examplemod] Sending event FMLLoadCompleteEvent to mod examplemod
+2017-04-15 19:44:10 [FINEST] [examplemod] Sent event FMLLoadCompleteEvent to mod examplemod
+2017-04-15 19:44:10 [INFO] [ForgeModLoader] Forge Mod Loader has successfully loaded 5 mods
+2017-04-15 19:44:10 [WARNING] [Dynamic mod] Mod Dynamic mod is missing a pack.mcmeta file, things may not work well
+2017-04-15 19:44:10 [WARNING] [Example Mod] Mod Example Mod is missing a pack.mcmeta file, things may not work well
+2017-04-15 19:44:10 [INFO] [Minecraft-Client] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Dynamic mod, FMLFileResourcePack:Example Mod
+2017-04-15 19:44:10 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4257_retrogocat.png
+2017-04-15 19:44:10 [SEVERE] [Minecraft-Client] Using missing texture, unable to load: minecraft:textures/items/MISSING_ICON_ITEM_4256_otherfilecat.png
+2017-04-15 19:44:10 [INFO] [STDOUT] 
+2017-04-15 19:44:10 [INFO] [STDOUT] Starting up SoundSystem...
+2017-04-15 19:44:11 [INFO] [STDOUT] Initializing LWJGL OpenAL
+2017-04-15 19:44:11 [INFO] [STDOUT]     (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+2017-04-15 19:44:11 [INFO] [STDOUT] OpenAL initialized.
+2017-04-15 19:44:11 [INFO] [STDOUT] 
+2017-04-15 19:44:11 [SEVERE] [Minecraft-Client] Realms: Server not available!
+2017-04-15 19:44:13 [INFO] [Minecraft-Server] Starting integrated minecraft server version 1.6.4
+2017-04-15 19:44:13 [INFO] [Minecraft-Server] Generating keypair
+2017-04-15 19:44:13 [FINEST] [mcp] Sending event FMLServerAboutToStartEvent to mod mcp
+2017-04-15 19:44:13 [FINEST] [mcp] Sent event FMLServerAboutToStartEvent to mod mcp
+2017-04-15 19:44:13 [FINEST] [FML] Sending event FMLServerAboutToStartEvent to mod FML
+2017-04-15 19:44:13 [FINEST] [FML] Sent event FMLServerAboutToStartEvent to mod FML
+2017-04-15 19:44:13 [FINEST] [Forge] Sending event FMLServerAboutToStartEvent to mod Forge
+2017-04-15 19:44:13 [FINEST] [Forge] Sent event FMLServerAboutToStartEvent to mod Forge
+2017-04-15 19:44:13 [FINEST] [nose] Sending event FMLServerAboutToStartEvent to mod nose
+2017-04-15 19:44:13 [FINEST] [nose] Sent event FMLServerAboutToStartEvent to mod nose
+2017-04-15 19:44:13 [FINEST] [examplemod] Sending event FMLServerAboutToStartEvent to mod examplemod
+2017-04-15 19:44:13 [FINEST] [examplemod] Sent event FMLServerAboutToStartEvent to mod examplemod
+2017-04-15 19:44:13 [FINE] [fml.ItemTracker] The difference set is equal
+2017-04-15 19:44:13 [INFO] [ForgeModLoader] Loading dimension 0 (durp) (net.minecraft.server.integrated.IntegratedServer@6837725)
+2017-04-15 19:44:13 [INFO] [ForgeModLoader] Loading dimension 1 (durp) (net.minecraft.server.integrated.IntegratedServer@6837725)
+2017-04-15 19:44:13 [INFO] [ForgeModLoader] Loading dimension -1 (durp) (net.minecraft.server.integrated.IntegratedServer@6837725)
+2017-04-15 19:44:13 [INFO] [Minecraft-Server] Preparing start region for level 0
+2017-04-15 19:44:13 [FINEST] [mcp] Sending event FMLServerStartingEvent to mod mcp
+2017-04-15 19:44:13 [FINEST] [mcp] Sent event FMLServerStartingEvent to mod mcp
+2017-04-15 19:44:13 [FINEST] [FML] Sending event FMLServerStartingEvent to mod FML
+2017-04-15 19:44:13 [FINEST] [FML] Sent event FMLServerStartingEvent to mod FML
+2017-04-15 19:44:13 [FINEST] [Forge] Sending event FMLServerStartingEvent to mod Forge
+2017-04-15 19:44:13 [FINEST] [Forge] Sent event FMLServerStartingEvent to mod Forge
+2017-04-15 19:44:13 [FINEST] [nose] Sending event FMLServerStartingEvent to mod nose
+2017-04-15 19:44:13 [FINEST] [nose] Sent event FMLServerStartingEvent to mod nose
+2017-04-15 19:44:13 [FINEST] [examplemod] Sending event FMLServerStartingEvent to mod examplemod
+2017-04-15 19:44:13 [FINEST] [examplemod] Sent event FMLServerStartingEvent to mod examplemod
+2017-04-15 19:44:13 [FINEST] [mcp] Sending event FMLServerStartedEvent to mod mcp
+2017-04-15 19:44:13 [FINEST] [mcp] Sent event FMLServerStartedEvent to mod mcp
+2017-04-15 19:44:13 [FINEST] [FML] Sending event FMLServerStartedEvent to mod FML
+2017-04-15 19:44:13 [FINEST] [FML] Sent event FMLServerStartedEvent to mod FML
+2017-04-15 19:44:13 [FINEST] [Forge] Sending event FMLServerStartedEvent to mod Forge
+2017-04-15 19:44:13 [FINEST] [Forge] Sent event FMLServerStartedEvent to mod Forge
+2017-04-15 19:44:13 [FINEST] [nose] Sending event FMLServerStartedEvent to mod nose
+2017-04-15 19:44:13 [FINEST] [nose] Sent event FMLServerStartedEvent to mod nose
+2017-04-15 19:44:13 [FINEST] [examplemod] Sending event FMLServerStartedEvent to mod examplemod
+2017-04-15 19:44:13 [FINEST] [examplemod] Sent event FMLServerStartedEvent to mod examplemod
+2017-04-15 19:44:14 [INFO] [STDOUT] loading single player
+2017-04-15 19:44:14 [INFO] [Minecraft-Server] Player994[/127.0.0.1:0] logged in with entity id 343 at (-229.38198675960894, 85.0660206868198, 255.12357245222046)
+2017-04-15 19:44:14 [INFO] [Minecraft-Server] Player994 joined the game
+2017-04-15 19:44:14 [INFO] [STDOUT] Setting up custom skins
+2017-04-15 19:44:23 [INFO] [Minecraft-Client] Stopping!
+2017-04-15 19:44:23 [FINEST] [mcp] Sending event FMLServerStoppingEvent to mod mcp
+2017-04-15 19:44:23 [FINEST] [mcp] Sent event FMLServerStoppingEvent to mod mcp
+2017-04-15 19:44:23 [FINEST] [FML] Sending event FMLServerStoppingEvent to mod FML
+2017-04-15 19:44:23 [FINEST] [FML] Sent event FMLServerStoppingEvent to mod FML
+2017-04-15 19:44:23 [FINEST] [Forge] Sending event FMLServerStoppingEvent to mod Forge
+2017-04-15 19:44:23 [FINEST] [Forge] Sent event FMLServerStoppingEvent to mod Forge
+2017-04-15 19:44:23 [FINEST] [nose] Sending event FMLServerStoppingEvent to mod nose
+2017-04-15 19:44:23 [FINEST] [nose] Sent event FMLServerStoppingEvent to mod nose
+2017-04-15 19:44:23 [FINEST] [examplemod] Sending event FMLServerStoppingEvent to mod examplemod
+2017-04-15 19:44:23 [FINEST] [examplemod] Sent event FMLServerStoppingEvent to mod examplemod
+2017-04-15 19:44:23 [INFO] [Minecraft-Server] Stopping server
+2017-04-15 19:44:23 [INFO] [Minecraft-Server] Saving players
+2017-04-15 19:44:23 [INFO] [Minecraft-Server] Player994 left the game
+2017-04-15 19:44:23 [INFO] [Minecraft-Server] Saving worlds
+2017-04-15 19:44:23 [INFO] [Minecraft-Server] Saving chunks for level 'durp'/Overworld
+2017-04-15 19:44:23 [INFO] [STDOUT] 
+2017-04-15 19:44:23 [INFO] [STDOUT] SoundSystem shutting down...
+2017-04-15 19:44:23 [INFO] [Minecraft-Server] Saving chunks for level 'durp'/Nether
+2017-04-15 19:44:23 [INFO] [Minecraft-Server] Saving chunks for level 'durp'/The End
+2017-04-15 19:44:23 [INFO] [STDOUT]     Author: Paul Lamb, www.paulscode.com
+2017-04-15 19:44:23 [INFO] [STDOUT] 
+2017-04-15 19:44:23 [INFO] [Minecraft-Server] Stopping server
+2017-04-15 19:44:23 [INFO] [Minecraft-Server] Saving players
+2017-04-15 19:44:23 [INFO] [Minecraft-Server] Saving worlds
+2017-04-15 19:44:23 [INFO] [Minecraft-Server] Saving chunks for level 'durp'/Overworld
+2017-04-15 19:44:23 [INFO] [STDERR] Exception in thread "Thread-3" java.lang.NullPointerException
+2017-04-15 19:44:23 [INFO] [STDERR] 	at net.minecraftforge.common.ForgeChunkManager.saveWorld(ForgeChunkManager.java:832)
+2017-04-15 19:44:23 [INFO] [STDERR] 	at net.minecraftforge.common.ForgeInternalHandler.onDimensionSave(ForgeInternalHandler.java:70)
+2017-04-15 19:44:23 [INFO] [STDERR] 	at net.minecraftforge.event.ASMEventHandler_1_ForgeInternalHandler_onDimensionSave_Save.invoke(.dynamic)
+2017-04-15 19:44:23 [INFO] [STDERR] 	at net.minecraftforge.event.ASMEventHandler.invoke(ASMEventHandler.java:39)
+2017-04-15 19:44:23 [INFO] [STDERR] 	at net.minecraftforge.event.EventBus.post(EventBus.java:108)
+2017-04-15 19:44:23 [INFO] [STDERR] 	at net.minecraft.world.WorldServer.saveAllChunks(WorldServer.java:900)
+2017-04-15 19:44:23 [INFO] [STDERR] 	at net.minecraft.server.MinecraftServer.saveAllWorlds(MinecraftServer.java:360)
+2017-04-15 19:44:23 [INFO] [STDERR] 	at net.minecraft.server.MinecraftServer.stopServer(MinecraftServer.java:393)
+2017-04-15 19:44:23 [INFO] [STDERR] 	at net.minecraft.server.integrated.IntegratedServer.stopServer(IntegratedServer.java:242)
+2017-04-15 19:44:23 [INFO] [STDERR] 	at net.minecraft.client.Minecraft.stopIntegratedServer(Minecraft.java:2440)
+2017-04-15 19:44:23 [INFO] [STDERR] 	at net.minecraft.client.main.MainShutdownHook.run(MainShutdownHook.java:93)
