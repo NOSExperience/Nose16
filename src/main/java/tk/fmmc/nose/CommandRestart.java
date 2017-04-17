@@ -2,7 +2,6 @@ package tk.fmmc.nose;
 
 import java.util.ArrayList;
 import java.util.List;
-import net.minecraft.client.Minecraft;
 import net.minecraft.command.ICommand;
 import net.minecraft.command.ICommandSender;
 import net.minecraft.util.ChatMessageComponent;
@@ -53,7 +52,13 @@ public class CommandRestart implements ICommand{
 		ChunkCoordinates cc = icommandsender.getPlayerCoordinates();
 		
 		World w = icommandsender.getEntityWorld();
-		w.setBlock(cc.posX, cc.posY, cc.posZ, 4005);
+		
+		if(astring.length != 1) {
+			icommandsender.sendChatToPlayer(new ChatMessageComponent().addText("Usage: /setblock <id>"));
+			return;
+		}
+		
+		w.setBlock(cc.posX, cc.posY, cc.posZ, Integer.parseInt(astring[0]));
 		//Minecraft.getMinecraft().shutdown();
 		//Minecraft.stopIntegratedServer();
 		//MinecraftServer.getServer().initiateShutdown();

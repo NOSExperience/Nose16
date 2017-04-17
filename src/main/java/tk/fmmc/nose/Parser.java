@@ -13,6 +13,8 @@ public class Parser {
 	private static final String REGISTRY_NAME_TAG = "registryname";
 	private static final String ENGLISH_NAME_TAG = "englishname";
 	private static final String TEXTURE_NAME_TAG = "texturename";
+	private static final String MATERIAL_TAG = "material";
+	//
 	private static final String ITEM_TAG = "item";
 	private static final String BLOCK_TAG = "block";
 	
@@ -26,9 +28,7 @@ public class Parser {
 		List<ItemSpecification> items = load(document, ItemType.ITEM);
 		List<ItemSpecification> blocks = load(document, ItemType.BLOCK);
 		
-		List<ItemSpecification> together = new ArrayList<ItemSpecification>();
-		
-		return new CombinedSpecification(items);
+		return new CombinedSpecification(items, blocks);
 	}
 		
 	private static List<ItemSpecification> load(Document document, ItemType type) {
@@ -60,6 +60,7 @@ public class Parser {
 			String registryName = null;
 			String englishName = null;
 			String textureName = null;
+			String materialName = null;
 			for(int j = 0; j < children.getLength(); j++) {
 				Node child = children.item(j);
 				if(child == null) {
@@ -85,15 +86,20 @@ public class Parser {
 					if(tName != null) {
 						textureName = tName;
 					}
+				} else if(nodeName == MATERIAL_TAG) {
+					String mName = child.getTextContent();
+					if(mName != null) {
+						materialName = mName;
+					}
 				}
 			}
 			
 			//System.out.println("reg: " + registryName);
 			//System.out.println("eng: " + englishName);
 			
-			//Texture is optional and can be null
+			//Textures and materials are optional and can be null
 			if(registryName != null && englishName != null) {
-				items.add(new ItemSpecification(type, registryName, englishName, textureName));
+				items.add(new ItemSpecification(type, registryName, englishName, textureName, materialName));
 			}
 		}
 		
