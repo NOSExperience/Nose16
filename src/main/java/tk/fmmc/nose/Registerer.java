@@ -13,21 +13,68 @@ public class Registerer {
 	
 	public static void register(ItemSpecification spec) {
 		if(spec.getItemType() == ItemType.ITEM) {
+			CreativeTabs tab = CreativeTabs.tabMisc;
 			Item item = new Item(lastId).setUnlocalizedName(spec.getRegistryName());
 			if(spec.getTextureName() != null) {
 				item.setTextureName(Main.MODID + ":" + spec.getTextureName());
 			}
 			
-			item.setCreativeTab(CreativeTabs.tabMaterials);
+			if(spec.getInventoryTab() == "blocks"){
+				tab = CreativeTabs.tabBlock;
+			} else if(spec.getInventoryTab() == "decoration"){
+				tab = CreativeTabs.tabDecorations;
+			} else if(spec.getInventoryTab() == "redstone"){
+				tab = CreativeTabs.tabRedstone;
+			} else if(spec.getInventoryTab() == "transportation"){
+				tab = CreativeTabs.tabTransport;
+			} else if(spec.getInventoryTab() == "misc"){
+				tab = CreativeTabs.tabMisc;
+			} else if(spec.getInventoryTab() == "food"){
+				tab = CreativeTabs.tabFood;
+			} else if(spec.getInventoryTab() == "tools"){
+				tab = CreativeTabs.tabTools;
+				System.out.println("Correct");
+			} else if(spec.getInventoryTab() == "combat"){
+				tab = CreativeTabs.tabCombat;
+			} else if(spec.getInventoryTab() == "brewing"){
+				tab = CreativeTabs.tabBrewing;
+			}
+			
+			item.setCreativeTab(tab);
 			
 			GameRegistry.registerItem(item, spec.getRegistryName());
 			
 			LanguageRegistry.addName(item, spec.getEnglishName());
 		} else if(spec.getItemType() == ItemType.BLOCK){
 			Block block = null;
+			CreativeTabs tab = CreativeTabs.tabFood;
+			Material mt = Material.rock;
+			
+			if(spec.getInventoryTab() == "blocks"){
+				tab = CreativeTabs.tabBlock;
+			} else if(spec.getInventoryTab() == "decoration"){
+				tab = CreativeTabs.tabDecorations;
+			} else if(spec.getInventoryTab() == "redstone"){
+				tab = CreativeTabs.tabRedstone;
+			} else if(spec.getInventoryTab() == "transportation"){
+				tab = CreativeTabs.tabTransport;
+			} else if(spec.getInventoryTab() == "misc"){
+				tab = CreativeTabs.tabMisc;
+			} else if(spec.getInventoryTab() == "food"){
+				tab = CreativeTabs.tabFood;
+			} else if(spec.getInventoryTab() == "tools"){
+				tab = CreativeTabs.tabTools;
+				System.out.println("Correct");
+			} else if(spec.getInventoryTab() == "combat"){
+				tab = CreativeTabs.tabCombat;
+			} else if(spec.getInventoryTab() == "brewing"){
+				tab = CreativeTabs.tabBrewing;
+			}
+//			} else if(spec.getInventoryTab() == "materials"){
+//				tab = CreativeTabs.tabMaterials;
+//			}
 			
 			if(spec.getMaterialName() != null) {
-				Material mt = Material.rock;
 				
 				if(spec.getMaterialName() == "grass") {
 					mt = Material.grass;
@@ -77,17 +124,21 @@ public class Registerer {
 					mt = Material.snow;
 				}
 				
-				block = new Block(lastId, mt).setUnlocalizedName(spec.getRegistryName());
-			} else {
-				block = new Block(lastId, Material.rock).setUnlocalizedName(spec.getRegistryName());
-			}
+			} 
+			
+			block = new Block(lastId, mt).setUnlocalizedName(spec.getRegistryName());
+			
+			System.out.println(tab);
+			System.out.println(spec.getInventoryTab());
+			System.out.println("test");
+			System.out.println(mt);
 			
 			if(spec.getTextureName() != null) {
 				block.setTextureName(Main.MODID + ":" + spec.getRegistryName());
 			}
-			
-			block.setCreativeTab(CreativeTabs.tabMaterials);
-			
+			if(spec.getInventoryTab() == "tools"){
+				block.setCreativeTab(CreativeTabs.tabTools);
+			}
 			GameRegistry.registerBlock(block, spec.getRegistryName());
 			
 			LanguageRegistry.addName(block, spec.getEnglishName());
