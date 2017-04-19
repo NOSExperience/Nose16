@@ -12,6 +12,8 @@ public class Registerer {
 	public static int lastId = 4000;
 	
 	public static void register(ItemSpecification spec) {
+		System.out.println("inventory: " + spec.getInventoryTab());
+		
 		if(spec.getItemType() == ItemType.ITEM) {
 			CreativeTabs tab = CreativeTabs.tabMisc;
 			Item item = new Item(lastId).setUnlocalizedName(spec.getRegistryName());
@@ -19,25 +21,8 @@ public class Registerer {
 				item.setTextureName(Main.MODID + ":" + spec.getTextureName());
 			}
 			
-			if(spec.getInventoryTab() == "blocks"){
-				tab = CreativeTabs.tabBlock;
-			} else if(spec.getInventoryTab() == "decoration"){
-				tab = CreativeTabs.tabDecorations;
-			} else if(spec.getInventoryTab() == "redstone"){
-				tab = CreativeTabs.tabRedstone;
-			} else if(spec.getInventoryTab() == "transportation"){
-				tab = CreativeTabs.tabTransport;
-			} else if(spec.getInventoryTab() == "misc"){
-				tab = CreativeTabs.tabMisc;
-			} else if(spec.getInventoryTab() == "food"){
-				tab = CreativeTabs.tabFood;
-			} else if(spec.getInventoryTab() == "tools"){
-				tab = CreativeTabs.tabTools;
-				System.out.println("Correct");
-			} else if(spec.getInventoryTab() == "combat"){
-				tab = CreativeTabs.tabCombat;
-			} else if(spec.getInventoryTab() == "brewing"){
-				tab = CreativeTabs.tabBrewing;
+			if(spec.getInventoryTab() != null) {
+				tab = determineTab(spec.getInventoryTab());
 			}
 			
 			item.setCreativeTab(tab);
@@ -46,36 +31,17 @@ public class Registerer {
 			
 			LanguageRegistry.addName(item, spec.getEnglishName());
 		} else if(spec.getItemType() == ItemType.BLOCK){
+			//System.out.println("------------- TEST\n\n\n");
+			
 			Block block = null;
-			CreativeTabs tab = CreativeTabs.tabFood;
+			CreativeTabs tab = CreativeTabs.tabMisc;
 			Material mt = Material.rock;
 			
-			if(spec.getInventoryTab() == "blocks"){
-				tab = CreativeTabs.tabBlock;
-			} else if(spec.getInventoryTab() == "decoration"){
-				tab = CreativeTabs.tabDecorations;
-			} else if(spec.getInventoryTab() == "redstone"){
-				tab = CreativeTabs.tabRedstone;
-			} else if(spec.getInventoryTab() == "transportation"){
-				tab = CreativeTabs.tabTransport;
-			} else if(spec.getInventoryTab() == "misc"){
-				tab = CreativeTabs.tabMisc;
-			} else if(spec.getInventoryTab() == "food"){
-				tab = CreativeTabs.tabFood;
-			} else if(spec.getInventoryTab() == "tools"){
-				tab = CreativeTabs.tabTools;
-				System.out.println("Correct");
-			} else if(spec.getInventoryTab() == "combat"){
-				tab = CreativeTabs.tabCombat;
-			} else if(spec.getInventoryTab() == "brewing"){
-				tab = CreativeTabs.tabBrewing;
+			if(spec.getInventoryTab() != null) {
+				tab = determineTab(spec.getInventoryTab());
 			}
-//			} else if(spec.getInventoryTab() == "materials"){
-//				tab = CreativeTabs.tabMaterials;
-//			}
 			
 			if(spec.getMaterialName() != null) {
-				
 				if(spec.getMaterialName() == "grass") {
 					mt = Material.grass;
 				} else if(spec.getMaterialName() == "ground") {
@@ -126,24 +92,43 @@ public class Registerer {
 				
 			} 
 			
-			block = new Block(lastId, mt).setUnlocalizedName(spec.getRegistryName());
-			
-			System.out.println(tab);
-			System.out.println(spec.getInventoryTab());
-			System.out.println("test");
-			System.out.println(mt);
+			block = new Block(lastId, mt).setUnlocalizedName(spec.getRegistryName()).setCreativeTab(tab);
 			
 			if(spec.getTextureName() != null) {
 				block.setTextureName(Main.MODID + ":" + spec.getRegistryName());
 			}
-			if(spec.getInventoryTab() == "tools"){
-				block.setCreativeTab(CreativeTabs.tabTools);
-			}
+			
 			GameRegistry.registerBlock(block, spec.getRegistryName());
 			
 			LanguageRegistry.addName(block, spec.getEnglishName());
 		}
 		
 		lastId++;
+	}
+	
+	private static CreativeTabs determineTab(String tabName) {
+		if(tabName.contains("blocks")) {
+			return CreativeTabs.tabBlock;
+		} else if(tabName.contains("decoration")) {
+			return CreativeTabs.tabDecorations;
+		} else if(tabName.contains("redstone")) {
+			return CreativeTabs.tabRedstone;
+		} else if(tabName.contains("transportation")) {
+			return CreativeTabs.tabTransport;
+		} else if(tabName.contains("misc")) {
+			return CreativeTabs.tabMisc;
+		} else if(tabName.contains("food")) {
+			return CreativeTabs.tabFood;
+		} else if(tabName.contains("tools")) {
+			return CreativeTabs.tabTools;
+		} else if(tabName.contains("combat")) {
+			return CreativeTabs.tabCombat;
+		} else if(tabName.contains("brewing")) {
+			return CreativeTabs.tabBrewing;
+		} else if(tabName.contains("materials")) {
+			return CreativeTabs.tabMaterials;
+		} else {
+			return CreativeTabs.tabMisc;
+		}
 	}
 }
