@@ -95,7 +95,7 @@ public class Registerer {
 			block = new Block(lastId, mt).setUnlocalizedName(spec.getRegistryName()).setCreativeTab(tab);
 			
 			if(spec.getTextureName() != null) {
-				block.setTextureName(Main.MODID + ":" + spec.getRegistryName());
+				block.setTextureName(Main.MODID + ":" + spec.getTextureName());
 			}
 			
 			GameRegistry.registerBlock(block, spec.getRegistryName());
