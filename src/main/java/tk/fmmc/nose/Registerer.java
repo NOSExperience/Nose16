@@ -12,23 +12,36 @@ public class Registerer {
 	public static int lastId = 4000;
 	
 	public static void register(ItemSpecification spec) {
+		System.out.println("inventory: " + spec.getInventoryTab());
+		
 		if(spec.getItemType() == ItemType.ITEM) {
+			CreativeTabs tab = CreativeTabs.tabMisc;
 			Item item = new Item(lastId).setUnlocalizedName(spec.getRegistryName());
 			if(spec.getTextureName() != null) {
 				item.setTextureName(Main.MODID + ":" + spec.getTextureName());
 			}
 			
-			item.setCreativeTab(CreativeTabs.tabMaterials);
+			if(spec.getInventoryTab() != null) {
+				tab = determineTab(spec.getInventoryTab());
+			}
+			
+			item.setCreativeTab(tab);
 			
 			GameRegistry.registerItem(item, spec.getRegistryName());
 			
 			LanguageRegistry.addName(item, spec.getEnglishName());
 		} else if(spec.getItemType() == ItemType.BLOCK){
+			//System.out.println("------------- TEST\n\n\n");
+			
 			Block block = null;
+			CreativeTabs tab = CreativeTabs.tabMisc;
+			Material mt = Material.rock;
+			
+			if(spec.getInventoryTab() != null) {
+				tab = determineTab(spec.getInventoryTab());
+			}
 			
 			if(spec.getMaterialName() != null) {
-				Material mt = Material.rock;
-				
 				if(spec.getMaterialName() == "grass") {
 					mt = Material.grass;
 				} else if(spec.getMaterialName() == "ground") {
@@ -77,16 +90,13 @@ public class Registerer {
 					mt = Material.snow;
 				}
 				
-				block = new Block(lastId, mt).setUnlocalizedName(spec.getRegistryName());
-			} else {
-				block = new Block(lastId, Material.rock).setUnlocalizedName(spec.getRegistryName());
-			}
+			} 
+			
+			block = new Block(lastId, mt).setUnlocalizedName(spec.getRegistryName()).setCreativeTab(tab);
 			
 			if(spec.getTextureName() != null) {
 				block.setTextureName(Main.MODID + ":" + spec.getRegistryName());
 			}
-			
-			block.setCreativeTab(CreativeTabs.tabMaterials);
 			
 			GameRegistry.registerBlock(block, spec.getRegistryName());
 			
@@ -94,5 +104,31 @@ public class Registerer {
 		}
 		
 		lastId++;
+	}
+	
+	private static CreativeTabs determineTab(String tabName) {
+		if(tabName.contains("blocks")) {
+			return CreativeTabs.tabBlock;
+		} else if(tabName.contains("decoration")) {
+			return CreativeTabs.tabDecorations;
+		} else if(tabName.contains("redstone")) {
+			return CreativeTabs.tabRedstone;
+		} else if(tabName.contains("transportation")) {
+			return CreativeTabs.tabTransport;
+		} else if(tabName.contains("misc")) {
+			return CreativeTabs.tabMisc;
+		} else if(tabName.contains("food")) {
+			return CreativeTabs.tabFood;
+		} else if(tabName.contains("tools")) {
+			return CreativeTabs.tabTools;
+		} else if(tabName.contains("combat")) {
+			return CreativeTabs.tabCombat;
+		} else if(tabName.contains("brewing")) {
+			return CreativeTabs.tabBrewing;
+		} else if(tabName.contains("materials")) {
+			return CreativeTabs.tabMaterials;
+		} else {
+			return CreativeTabs.tabMisc;
+		}
 	}
 }

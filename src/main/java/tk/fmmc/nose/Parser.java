@@ -14,6 +14,7 @@ public class Parser {
 	private static final String ENGLISH_NAME_TAG = "englishname";
 	private static final String TEXTURE_NAME_TAG = "texturename";
 	private static final String MATERIAL_TAG = "material";
+	private static final String INVENTORY_TAB = "inventory";
 	//
 	private static final String ITEM_TAG = "item";
 	private static final String BLOCK_TAG = "block";
@@ -61,6 +62,7 @@ public class Parser {
 			String englishName = null;
 			String textureName = null;
 			String materialName = null;
+			String inventoryTab = null;
 			for(int j = 0; j < children.getLength(); j++) {
 				Node child = children.item(j);
 				if(child == null) {
@@ -91,6 +93,11 @@ public class Parser {
 					if(mName != null) {
 						materialName = mName;
 					}
+				} else if(nodeName == INVENTORY_TAB){
+					String iTab = child.getTextContent();
+					if(iTab != null){
+						inventoryTab = iTab;
+					}
 				}
 			}
 			
@@ -99,7 +106,7 @@ public class Parser {
 			
 			//Textures and materials are optional and can be null
 			if(registryName != null && englishName != null) {
-				items.add(new ItemSpecification(type, registryName, englishName, textureName, materialName));
+				items.add(new ItemSpecification(type, registryName, englishName, textureName, materialName, inventoryTab));
 			}
 		}
 		
