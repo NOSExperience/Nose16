@@ -42,59 +42,60 @@ public class Registerer {
 			}
 			
 			if(spec.getMaterialName() != null) {
-				if(spec.getMaterialName() == "grass") {
+				if(spec.getMaterialName().contains("grass")) {
 					mt = Material.grass;
-				} else if(spec.getMaterialName() == "ground") {
+				} else if(spec.getMaterialName().contains("ground")) {
 					mt = Material.ground;
-				} else if(spec.getMaterialName() == "wood") {
+				} else if(spec.getMaterialName().contains("wood")) {
 					mt = Material.wood;
-				} else if(spec.getMaterialName() == "rock") {
+				} else if(spec.getMaterialName().contains("rock")) {
 					mt = Material.rock;
-				} else if(spec.getMaterialName() == "iron") {
+				} else if(spec.getMaterialName().contains("iron")) {
 					mt = Material.iron;
-				} else if(spec.getMaterialName() == "anvil") {
+				} else if(spec.getMaterialName().contains("anvil")) {
 					mt = Material.anvil;
-				} else if(spec.getMaterialName() == "water") {
+				} else if(spec.getMaterialName().contains("water")) {
 					mt = Material.water;
-				} else if(spec.getMaterialName() == "lava") {
+				} else if(spec.getMaterialName().contains("lava")) {
 					mt = Material.lava;
-				} else if(spec.getMaterialName() == "leaves") {
+				} else if(spec.getMaterialName().contains("leaves")) {
 					mt = Material.leaves;
-				} else if(spec.getMaterialName() == "plants") {
+				} else if(spec.getMaterialName().contains("plants")) {
 					mt = Material.plants;
-				} else if(spec.getMaterialName() == "vine") {
+				} else if(spec.getMaterialName().contains("vine")) {
 					mt = Material.vine;
-				} else if(spec.getMaterialName() == "sponge") {
+				} else if(spec.getMaterialName().contains("sponge")) {
 					mt = Material.sponge;
-				} else if(spec.getMaterialName() == "cloth") {
+				} else if(spec.getMaterialName().contains("cloth")) {
 					mt = Material.cloth;
-				} else if(spec.getMaterialName() == "fire") {
+				} else if(spec.getMaterialName().contains("fire")) {
 					mt = Material.fire;
-				} else if(spec.getMaterialName() == "sand") {
+				} else if(spec.getMaterialName().contains("sand")) {
 					mt = Material.sand;
-				} else if(spec.getMaterialName() == "circuits") {
+				} else if(spec.getMaterialName().contains("circuits")) {
 					mt = Material.circuits;
-				} else if(spec.getMaterialName() == "materialCarpet") {
+				} else if(spec.getMaterialName().contains("materialCarpet")) {
 					mt = Material.materialCarpet;
-				} else if(spec.getMaterialName() == "glass") {
+				} else if(spec.getMaterialName().contains("glass")) {
 					mt = Material.glass;
-				} else if(spec.getMaterialName() == "redstoneLight") {
+				} else if(spec.getMaterialName().contains("redstoneLight")) {
 					mt = Material.redstoneLight;
-				} else if(spec.getMaterialName() == "tnt") {
+				} else if(spec.getMaterialName().contains("tnt")) {
 					mt = Material.tnt;
-				} else if(spec.getMaterialName() == "coral") {
+				} else if(spec.getMaterialName().contains("coral")) {
 					mt = Material.coral;
-				} else if(spec.getMaterialName() == "ice") {
+				} else if(spec.getMaterialName().contains("ice")) {
 					mt = Material.ice;
-				} else if(spec.getMaterialName() == "snow") {
+				} else if(spec.getMaterialName().contains("snow")) {
 					mt = Material.snow;
-				}				
-			}
+				}
+				
+			} 
 			
 			block = new Block(lastId, mt).setUnlocalizedName(spec.getRegistryName()).setCreativeTab(tab);
 			
 			if(spec.getTextureName() != null) {
-				block.setTextureName(Main.MODID + ":" + spec.getTextureName());
+				block.setTextureName(Main.MODID + ":" + spec.getRegistryName());
 			}
 			
 			GameRegistry.registerBlock(block, spec.getRegistryName());
