@@ -759,3 +759,17 @@
 2017-04-18 20:48:19 [CLIENT] [SEVERE] Using missing texture, unable to load: nose:textures/blocks/testa.png
 2017-04-18 20:48:20 [CLIENT] [SEVERE] Realms: Server not available!
 2017-04-18 20:49:02 [CLIENT] [INFO] Stopping!
+2017-04-20 18:10:45 [CLIENT] [INFO] Setting user: Player579
+2017-04-20 18:10:46 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2017-04-20 18:10:46 [CLIENT] [INFO] Reloading ResourceManager: Default
+2017-04-20 18:10:48 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Dynamic mod, FMLFileResourcePack:Example Mod
+2017-04-20 18:10:49 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Dynamic mod, FMLFileResourcePack:Example Mod
+2017-04-20 18:10:49 [CLIENT] [SEVERE] Realms: Server not available!
+2017-04-20 18:11:13 [CLIENT] [INFO] Stopping!
+2017-04-20 18:13:56 [CLIENT] [INFO] Setting user: Player777
+2017-04-20 18:13:57 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2017-04-20 18:13:57 [CLIENT] [INFO] Reloading ResourceManager: Default
+2017-04-20 18:13:59 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Dynamic mod, FMLFileResourcePack:Example Mod
+2017-04-20 18:14:00 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Dynamic mod, FMLFileResourcePack:Example Mod
+2017-04-20 18:14:01 [CLIENT] [SEVERE] Realms: Server not available!
+2017-04-20 18:14:19 [CLIENT] [INFO] Stopping!
