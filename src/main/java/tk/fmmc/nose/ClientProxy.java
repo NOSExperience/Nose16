@@ -3,6 +3,7 @@ package tk.fmmc.nose;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
+import tk.fmmc.nose.web.Downloader;
 
 public class ClientProxy extends CommonProxy {
 	
@@ -10,8 +11,10 @@ public class ClientProxy extends CommonProxy {
 	public void preInit(FMLPreInitializationEvent e) throws Exception {
 		super.preInit(e);
 		
-		Discoverer d = new Discoverer();
-		d.run();
+		Downloader.downloadAll("http://localhost/nosemod/");
+		
+		Discoverer ds = new Discoverer();
+		ds.run();
 	}
 
 	@Override
