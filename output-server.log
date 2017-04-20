@@ -487,3 +487,536 @@ Caused by: java.lang.NullPointerException
 2017-04-15 19:44:23 [SERVER] [INFO] Saving players
 2017-04-15 19:44:23 [SERVER] [INFO] Saving worlds
 2017-04-15 19:44:23 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-17 18:47:45 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2017-04-17 18:47:45 [SERVER] [INFO] Generating keypair
+2017-04-17 18:47:46 [SERVER] [INFO] Preparing start region for level 0
+2017-04-17 18:47:47 [SERVER] [INFO] Player21[/127.0.0.1:0] logged in with entity id 342 at (-229.38198675960894, 85.0660206868198, 255.12357245222046)
+2017-04-17 18:47:47 [SERVER] [INFO] Player21 joined the game
+2017-04-17 18:47:58 [SERVER] [INFO] Saving and pausing game...
+2017-04-17 18:47:58 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-17 18:47:58 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-17 18:47:58 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-17 18:48:10 [SERVER] [INFO] Saving and pausing game...
+2017-04-17 18:48:10 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-17 18:48:10 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-17 18:48:10 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-17 18:48:11 [SERVER] [INFO] Stopping server
+2017-04-17 18:48:11 [SERVER] [INFO] Saving players
+2017-04-17 18:48:11 [SERVER] [INFO] Player21 left the game
+2017-04-17 18:48:11 [SERVER] [INFO] Saving worlds
+2017-04-17 18:48:11 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-17 18:48:11 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-17 18:48:11 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-17 18:50:20 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2017-04-17 18:50:20 [SERVER] [INFO] Generating keypair
+2017-04-17 18:50:20 [SERVER] [INFO] Preparing start region for level 0
+2017-04-17 18:50:21 [SERVER] [INFO] Player268[/127.0.0.1:0] logged in with entity id 343 at (-229.38198675960894, 68.96726468681221, 255.12357245222046)
+2017-04-17 18:50:21 [SERVER] [INFO] Player268 joined the game
+2017-04-17 18:51:38 [SERVER] [INFO] Saving and pausing game...
+2017-04-17 18:51:38 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-17 18:51:38 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-17 18:51:38 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-17 18:51:39 [SERVER] [INFO] Stopping server
+2017-04-17 18:51:39 [SERVER] [INFO] Saving players
+2017-04-17 18:51:39 [SERVER] [INFO] Player268 left the game
+2017-04-17 18:51:39 [SERVER] [INFO] Saving worlds
+2017-04-17 18:51:39 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-17 18:51:39 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-17 18:51:39 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-17 18:52:22 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2017-04-17 18:52:22 [SERVER] [INFO] Generating keypair
+2017-04-17 18:52:22 [SERVER] [INFO] Preparing start region for level 0
+2017-04-17 18:52:22 [SERVER] [INFO] Player889[/127.0.0.1:0] logged in with entity id 324 at (-229.38198675960894, 68.96726468681221, 255.12357245222046)
+2017-04-17 18:52:22 [SERVER] [INFO] Player889 joined the game
+2017-04-17 18:52:31 [SERVER] [INFO] Saving and pausing game...
+2017-04-17 18:52:31 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-17 18:52:31 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-17 18:52:31 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-17 18:52:32 [SERVER] [INFO] Stopping server
+2017-04-17 18:52:32 [SERVER] [INFO] Saving players
+2017-04-17 18:52:32 [SERVER] [INFO] Player889 left the game
+2017-04-17 18:52:32 [SERVER] [INFO] Saving worlds
+2017-04-17 18:52:32 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-17 18:52:32 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-17 18:52:32 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-17 18:53:41 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2017-04-17 18:53:41 [SERVER] [INFO] Generating keypair
+2017-04-17 18:53:41 [SERVER] [INFO] Preparing start region for level 0
+2017-04-17 18:53:42 [SERVER] [INFO] Player990[/127.0.0.1:0] logged in with entity id 323 at (-229.38198675960894, 68.96726468681221, 255.12357245222046)
+2017-04-17 18:53:42 [SERVER] [INFO] Player990 joined the game
+2017-04-17 18:53:49 [SERVER] [INFO] Saving and pausing game...
+2017-04-17 18:53:49 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-17 18:53:49 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-17 18:53:49 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-17 18:53:49 [SERVER] [INFO] Stopping server
+2017-04-17 18:53:49 [SERVER] [INFO] Saving players
+2017-04-17 18:53:49 [SERVER] [INFO] Player990 left the game
+2017-04-17 18:53:49 [SERVER] [INFO] Saving worlds
+2017-04-17 18:53:49 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-17 18:53:49 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-17 18:53:49 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-17 19:09:06 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2017-04-17 19:09:06 [SERVER] [INFO] Generating keypair
+2017-04-17 19:09:07 [SERVER] [INFO] Preparing start region for level 0
+2017-04-17 19:09:07 [SERVER] [INFO] Player206[/127.0.0.1:0] logged in with entity id 323 at (-229.38198675960894, 68.96726468681221, 255.12357245222046)
+2017-04-17 19:09:07 [SERVER] [INFO] Player206 joined the game
+2017-04-17 19:09:24 [SERVER] [INFO] Stopping server
+2017-04-17 19:09:24 [SERVER] [INFO] Saving players
+2017-04-17 19:09:24 [SERVER] [INFO] Player206 left the game
+2017-04-17 19:09:24 [SERVER] [INFO] Saving worlds
+2017-04-17 19:09:24 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-17 19:09:24 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-17 19:09:24 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-17 19:09:24 [SERVER] [INFO] Stopping server
+2017-04-17 19:10:33 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2017-04-17 19:10:33 [SERVER] [INFO] Generating keypair
+2017-04-17 19:10:33 [SERVER] [INFO] Preparing start region for level 0
+2017-04-17 19:10:34 [SERVER] [INFO] Player464[/127.0.0.1:0] logged in with entity id 325 at (-229.38198675960894, 68.96726468681221, 255.12357245222046)
+2017-04-17 19:10:34 [SERVER] [INFO] Player464 joined the game
+2017-04-17 19:10:51 [SERVER] [INFO] Stopping server
+2017-04-17 19:10:51 [SERVER] [INFO] Saving players
+2017-04-17 19:10:51 [SERVER] [INFO] Player464 left the game
+2017-04-17 19:10:51 [SERVER] [INFO] Saving worlds
+2017-04-17 19:10:51 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-17 19:10:51 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-17 19:10:51 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-17 19:10:51 [SERVER] [INFO] Stopping server
+2017-04-17 19:12:35 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2017-04-17 19:12:35 [SERVER] [INFO] Generating keypair
+2017-04-17 19:12:35 [SERVER] [INFO] Preparing start region for level 0
+2017-04-17 19:12:36 [SERVER] [INFO] Player303[/127.0.0.1:0] logged in with entity id 326 at (-229.38198675960894, 68.96726468681221, 255.12357245222046)
+2017-04-17 19:12:36 [SERVER] [INFO] Player303 joined the game
+2017-04-17 19:12:54 [SERVER] [INFO] Stopping server
+2017-04-17 19:12:54 [SERVER] [INFO] Saving players
+2017-04-17 19:12:54 [SERVER] [INFO] Player303 left the game
+2017-04-17 19:12:54 [SERVER] [INFO] Saving worlds
+2017-04-17 19:12:54 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-17 19:12:54 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-17 19:12:54 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-17 19:16:40 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2017-04-17 19:16:40 [SERVER] [INFO] Generating keypair
+2017-04-17 19:16:40 [SERVER] [INFO] Preparing start region for level 0
+2017-04-17 19:16:40 [SERVER] [INFO] Player706[/127.0.0.1:0] logged in with entity id 328 at (-229.38198675960894, 68.96726468681221, 255.12357245222046)
+2017-04-17 19:16:40 [SERVER] [INFO] Player706 joined the game
+2017-04-17 19:17:22 [SERVER] [INFO] Stopping server
+2017-04-17 19:17:22 [SERVER] [INFO] Saving players
+2017-04-17 19:17:22 [SERVER] [INFO] Player706 left the game
+2017-04-17 19:17:22 [SERVER] [INFO] Saving worlds
+2017-04-17 19:17:22 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-17 19:17:22 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-17 19:17:22 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-17 19:17:22 [SERVER] [INFO] Stopping server
+2017-04-17 19:19:45 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2017-04-17 19:19:45 [SERVER] [INFO] Generating keypair
+2017-04-17 19:19:45 [SERVER] [INFO] Preparing start region for level 0
+2017-04-17 19:19:46 [SERVER] [INFO] Player585[/127.0.0.1:0] logged in with entity id 330 at (-229.38198675960894, 68.96726468681221, 255.12357245222046)
+2017-04-17 19:19:46 [SERVER] [INFO] Player585 joined the game
+2017-04-17 19:19:52 [SERVER] [INFO] Saving and pausing game...
+2017-04-17 19:19:52 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-17 19:19:52 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-17 19:19:52 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-17 19:19:58 [SERVER] [INFO] Saving and pausing game...
+2017-04-17 19:19:58 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-17 19:19:58 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-17 19:19:58 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-17 19:19:59 [SERVER] [INFO] Stopping server
+2017-04-17 19:19:59 [SERVER] [INFO] Saving players
+2017-04-17 19:19:59 [SERVER] [INFO] Player585 left the game
+2017-04-17 19:19:59 [SERVER] [INFO] Saving worlds
+2017-04-17 19:19:59 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-17 19:19:59 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-17 19:19:59 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-17 19:22:02 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2017-04-17 19:22:02 [SERVER] [INFO] Generating keypair
+2017-04-17 19:22:02 [SERVER] [INFO] Preparing start region for level 0
+2017-04-17 19:22:03 [SERVER] [INFO] Player437[/127.0.0.1:0] logged in with entity id 325 at (-228.05405495239503, 67.0, 251.583106403724)
+2017-04-17 19:22:03 [SERVER] [INFO] Player437 joined the game
+2017-04-17 19:22:08 [SERVER] [INFO] Saving and pausing game...
+2017-04-17 19:22:08 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-17 19:22:08 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-17 19:22:08 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-17 19:22:11 [SERVER] [INFO] Saving and pausing game...
+2017-04-17 19:22:11 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-17 19:22:12 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-17 19:22:12 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-17 19:22:12 [SERVER] [INFO] Stopping server
+2017-04-17 19:22:12 [SERVER] [INFO] Saving players
+2017-04-17 19:22:12 [SERVER] [INFO] Player437 left the game
+2017-04-17 19:22:12 [SERVER] [INFO] Saving worlds
+2017-04-17 19:22:12 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-17 19:22:12 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-17 19:22:12 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-17 19:24:24 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2017-04-17 19:24:24 [SERVER] [INFO] Generating keypair
+2017-04-17 19:24:25 [SERVER] [INFO] Preparing start region for level 0
+2017-04-17 19:24:25 [SERVER] [INFO] Player856[/127.0.0.1:0] logged in with entity id 327 at (-228.05405495239503, 67.0, 251.583106403724)
+2017-04-17 19:24:25 [SERVER] [INFO] Player856 joined the game
+2017-04-17 19:24:31 [SERVER] [INFO] Saving and pausing game...
+2017-04-17 19:24:31 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-17 19:24:31 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-17 19:24:31 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-17 19:24:32 [SERVER] [INFO] Stopping server
+2017-04-17 19:24:32 [SERVER] [INFO] Saving players
+2017-04-17 19:24:32 [SERVER] [INFO] Player856 left the game
+2017-04-17 19:24:32 [SERVER] [INFO] Saving worlds
+2017-04-17 19:24:32 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-17 19:24:32 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-17 19:24:32 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-17 19:26:58 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2017-04-17 19:26:58 [SERVER] [INFO] Generating keypair
+2017-04-17 19:26:59 [SERVER] [INFO] Preparing start region for level 0
+2017-04-17 19:26:59 [SERVER] [INFO] Player897[/127.0.0.1:0] logged in with entity id 327 at (-228.05405495239503, 67.0, 251.583106403724)
+2017-04-17 19:26:59 [SERVER] [INFO] Player897 joined the game
+2017-04-17 19:27:01 [SERVER] [INFO] Saving and pausing game...
+2017-04-17 19:27:01 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-17 19:27:01 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-17 19:27:01 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-17 19:27:58 [SERVER] [INFO] Saving and pausing game...
+2017-04-17 19:27:58 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-17 19:27:58 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-17 19:27:58 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-17 19:27:58 [SERVER] [INFO] Stopping server
+2017-04-17 19:27:58 [SERVER] [INFO] Saving players
+2017-04-17 19:27:58 [SERVER] [INFO] Player897 left the game
+2017-04-17 19:27:58 [SERVER] [INFO] Saving worlds
+2017-04-17 19:27:58 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-17 19:27:58 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-17 19:27:58 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-17 19:29:01 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2017-04-17 19:29:01 [SERVER] [INFO] Generating keypair
+2017-04-17 19:29:01 [SERVER] [INFO] Preparing start region for level 0
+2017-04-17 19:29:01 [SERVER] [INFO] Player772[/127.0.0.1:0] logged in with entity id 325 at (-228.05405495239503, 67.0, 251.583106403724)
+2017-04-17 19:29:01 [SERVER] [INFO] Player772 joined the game
+2017-04-17 19:29:09 [SERVER] [INFO] Saving and pausing game...
+2017-04-17 19:29:09 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-17 19:29:09 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-17 19:29:09 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-17 19:29:11 [SERVER] [INFO] Stopping server
+2017-04-17 19:29:11 [SERVER] [INFO] Saving players
+2017-04-17 19:29:11 [SERVER] [INFO] Player772 left the game
+2017-04-17 19:29:11 [SERVER] [INFO] Saving worlds
+2017-04-17 19:29:11 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-17 19:29:11 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-17 19:29:11 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-17 19:30:51 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2017-04-17 19:30:51 [SERVER] [INFO] Generating keypair
+2017-04-17 19:30:51 [SERVER] [INFO] Preparing start region for level 0
+2017-04-17 19:30:52 [SERVER] [INFO] Player670[/127.0.0.1:0] logged in with entity id 325 at (-228.05405495239503, 67.0, 251.583106403724)
+2017-04-17 19:30:52 [SERVER] [INFO] Player670 joined the game
+2017-04-17 19:30:57 [SERVER] [INFO] Saving and pausing game...
+2017-04-17 19:30:57 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-17 19:30:57 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-17 19:30:57 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-17 19:30:58 [SERVER] [INFO] Stopping server
+2017-04-17 19:30:58 [SERVER] [INFO] Saving players
+2017-04-17 19:30:58 [SERVER] [INFO] Player670 left the game
+2017-04-17 19:30:58 [SERVER] [INFO] Saving worlds
+2017-04-17 19:30:58 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-17 19:30:58 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-17 19:30:58 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-17 19:32:06 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2017-04-17 19:32:06 [SERVER] [INFO] Generating keypair
+2017-04-17 19:32:06 [SERVER] [INFO] Preparing start region for level 0
+2017-04-17 19:32:07 [SERVER] [INFO] Player443[/127.0.0.1:0] logged in with entity id 325 at (-228.05405495239503, 67.0, 251.583106403724)
+2017-04-17 19:32:07 [SERVER] [INFO] Player443 joined the game
+2017-04-17 19:32:12 [SERVER] [INFO] Saving and pausing game...
+2017-04-17 19:32:12 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-17 19:32:12 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-17 19:32:12 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-17 19:32:13 [SERVER] [INFO] Stopping server
+2017-04-17 19:32:13 [SERVER] [INFO] Saving players
+2017-04-17 19:32:13 [SERVER] [INFO] Player443 left the game
+2017-04-17 19:32:13 [SERVER] [INFO] Saving worlds
+2017-04-17 19:32:13 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-17 19:32:13 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-17 19:32:13 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-18 16:13:20 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2017-04-18 16:13:20 [SERVER] [INFO] Generating keypair
+2017-04-18 16:13:20 [SERVER] [INFO] Preparing start region for level 0
+2017-04-18 16:13:21 [SERVER] [INFO] Player901[/127.0.0.1:0] logged in with entity id 326 at (-228.05405495239503, 67.0, 251.583106403724)
+2017-04-18 16:13:21 [SERVER] [INFO] Player901 joined the game
+2017-04-18 16:13:26 [SERVER] [INFO] [Player901: Set the time to 0]
+2017-04-18 16:13:36 [SERVER] [INFO] Saving and pausing game...
+2017-04-18 16:13:36 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-18 16:13:36 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-18 16:13:36 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-18 16:13:36 [SERVER] [INFO] Stopping server
+2017-04-18 16:13:36 [SERVER] [INFO] Saving players
+2017-04-18 16:13:36 [SERVER] [INFO] Player901 left the game
+2017-04-18 16:13:36 [SERVER] [INFO] Saving worlds
+2017-04-18 16:13:36 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-18 16:13:36 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-18 16:13:36 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-18 16:14:27 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2017-04-18 16:14:27 [SERVER] [INFO] Generating keypair
+2017-04-18 16:14:27 [SERVER] [INFO] Preparing start region for level 0
+2017-04-18 16:14:28 [SERVER] [INFO] Player706[/127.0.0.1:0] logged in with entity id 329 at (-228.05405495239503, 67.0, 251.583106403724)
+2017-04-18 16:14:28 [SERVER] [INFO] Player706 joined the game
+2017-04-18 16:14:34 [SERVER] [INFO] Stopping server
+2017-04-18 16:14:34 [SERVER] [INFO] Saving players
+2017-04-18 16:14:34 [SERVER] [INFO] Player706 left the game
+2017-04-18 16:14:34 [SERVER] [INFO] Saving worlds
+2017-04-18 16:14:34 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-18 16:14:34 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-18 16:14:34 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-18 16:15:03 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2017-04-18 16:15:03 [SERVER] [INFO] Generating keypair
+2017-04-18 16:15:03 [SERVER] [INFO] Preparing start region for level 0
+2017-04-18 16:15:04 [SERVER] [INFO] Player13[/127.0.0.1:0] logged in with entity id 327 at (-228.05405495239503, 67.0, 251.583106403724)
+2017-04-18 16:15:04 [SERVER] [INFO] Player13 joined the game
+2017-04-18 16:15:14 [SERVER] [INFO] Saving and pausing game...
+2017-04-18 16:15:14 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-18 16:15:14 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-18 16:15:14 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-18 16:15:14 [SERVER] [INFO] Stopping server
+2017-04-18 16:15:14 [SERVER] [INFO] Saving players
+2017-04-18 16:15:14 [SERVER] [INFO] Player13 left the game
+2017-04-18 16:15:14 [SERVER] [INFO] Saving worlds
+2017-04-18 16:15:14 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-18 16:15:14 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-18 16:15:14 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-18 16:16:08 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2017-04-18 16:16:08 [SERVER] [INFO] Generating keypair
+2017-04-18 16:16:08 [SERVER] [INFO] Preparing start region for level 0
+2017-04-18 16:16:08 [SERVER] [INFO] Player188[/127.0.0.1:0] logged in with entity id 325 at (-228.05405495239503, 67.0, 251.583106403724)
+2017-04-18 16:16:08 [SERVER] [INFO] Player188 joined the game
+2017-04-18 16:16:13 [SERVER] [INFO] Stopping server
+2017-04-18 16:16:13 [SERVER] [INFO] Saving players
+2017-04-18 16:16:13 [SERVER] [INFO] Player188 left the game
+2017-04-18 16:16:13 [SERVER] [INFO] Saving worlds
+2017-04-18 16:16:13 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-18 16:16:13 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-18 16:16:13 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-18 16:16:14 [SERVER] [INFO] Stopping server
+2017-04-18 16:18:44 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2017-04-18 16:18:44 [SERVER] [INFO] Generating keypair
+2017-04-18 16:18:44 [SERVER] [INFO] Preparing start region for level 0
+2017-04-18 16:18:45 [SERVER] [INFO] Player960[/127.0.0.1:0] logged in with entity id 378 at (-212.5, 64.0, 253.5)
+2017-04-18 16:18:45 [SERVER] [INFO] Player960 joined the game
+2017-04-18 16:18:47 [SERVER] [INFO] Saving and pausing game...
+2017-04-18 16:18:47 [SERVER] [INFO] Saving chunks for level 'durp2'/Overworld
+2017-04-18 16:18:49 [SERVER] [INFO] Saving chunks for level 'durp2'/Nether
+2017-04-18 16:18:49 [SERVER] [INFO] Saving chunks for level 'durp2'/The End
+2017-04-18 16:18:49 [SERVER] [INFO] Stopping server
+2017-04-18 16:18:49 [SERVER] [INFO] Saving players
+2017-04-18 16:18:49 [SERVER] [INFO] Player960 left the game
+2017-04-18 16:18:49 [SERVER] [INFO] Saving worlds
+2017-04-18 16:18:49 [SERVER] [INFO] Saving chunks for level 'durp2'/Overworld
+2017-04-18 16:18:49 [SERVER] [INFO] Saving chunks for level 'durp2'/Nether
+2017-04-18 16:18:49 [SERVER] [INFO] Saving chunks for level 'durp2'/The End
+2017-04-18 16:23:17 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2017-04-18 16:23:17 [SERVER] [INFO] Generating keypair
+2017-04-18 16:23:17 [SERVER] [INFO] Preparing start region for level 0
+2017-04-18 16:23:17 [SERVER] [INFO] Player849[/127.0.0.1:0] logged in with entity id 325 at (-228.05405495239503, 67.0, 251.583106403724)
+2017-04-18 16:23:17 [SERVER] [INFO] Player849 joined the game
+2017-04-18 16:23:23 [SERVER] [INFO] Stopping server
+2017-04-18 16:23:23 [SERVER] [INFO] Saving players
+2017-04-18 16:23:23 [SERVER] [INFO] Player849 left the game
+2017-04-18 16:23:23 [SERVER] [INFO] Saving worlds
+2017-04-18 16:23:23 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-18 16:23:23 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-18 16:23:23 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-18 16:23:23 [SERVER] [INFO] Stopping server
+2017-04-18 16:24:38 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2017-04-18 16:24:38 [SERVER] [INFO] Generating keypair
+2017-04-18 16:24:39 [SERVER] [INFO] Preparing start region for level 0
+2017-04-18 16:24:39 [SERVER] [INFO] Player791[/127.0.0.1:0] logged in with entity id 324 at (-228.05405495239503, 67.0, 251.583106403724)
+2017-04-18 16:24:39 [SERVER] [INFO] Player791 joined the game
+2017-04-18 16:24:42 [SERVER] [INFO] Saving and pausing game...
+2017-04-18 16:24:42 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-18 16:24:42 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-18 16:24:42 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-18 16:24:43 [SERVER] [INFO] Stopping server
+2017-04-18 16:24:43 [SERVER] [INFO] Saving players
+2017-04-18 16:24:43 [SERVER] [INFO] Player791 left the game
+2017-04-18 16:24:43 [SERVER] [INFO] Saving worlds
+2017-04-18 16:24:43 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-18 16:24:43 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-18 16:24:43 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-18 16:26:24 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2017-04-18 16:26:24 [SERVER] [INFO] Generating keypair
+2017-04-18 16:26:24 [SERVER] [INFO] Preparing start region for level 0
+2017-04-18 16:26:24 [SERVER] [INFO] Player995[/127.0.0.1:0] logged in with entity id 324 at (-228.05405495239503, 67.0, 251.583106403724)
+2017-04-18 16:26:24 [SERVER] [INFO] Player995 joined the game
+2017-04-18 16:26:30 [SERVER] [INFO] Stopping server
+2017-04-18 16:26:30 [SERVER] [INFO] Saving players
+2017-04-18 16:26:30 [SERVER] [INFO] Player995 left the game
+2017-04-18 16:26:30 [SERVER] [INFO] Saving worlds
+2017-04-18 16:26:30 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-18 16:26:30 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-18 16:26:30 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-18 16:27:54 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2017-04-18 16:27:54 [SERVER] [INFO] Generating keypair
+2017-04-18 16:27:55 [SERVER] [INFO] Preparing start region for level 0
+2017-04-18 16:27:55 [SERVER] [INFO] Player716[/127.0.0.1:0] logged in with entity id 324 at (-228.05405495239503, 67.0, 251.583106403724)
+2017-04-18 16:27:55 [SERVER] [INFO] Player716 joined the game
+2017-04-18 16:28:04 [SERVER] [INFO] Saving and pausing game...
+2017-04-18 16:28:04 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-18 16:28:04 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-18 16:28:04 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-18 16:28:05 [SERVER] [INFO] Saving and pausing game...
+2017-04-18 16:28:05 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-18 16:28:05 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-18 16:28:05 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-18 16:28:06 [SERVER] [INFO] Stopping server
+2017-04-18 16:28:06 [SERVER] [INFO] Saving players
+2017-04-18 16:28:06 [SERVER] [INFO] Player716 left the game
+2017-04-18 16:28:06 [SERVER] [INFO] Saving worlds
+2017-04-18 16:28:06 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-18 16:28:06 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-18 16:28:06 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-18 16:29:24 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2017-04-18 16:29:24 [SERVER] [INFO] Generating keypair
+2017-04-18 16:29:24 [SERVER] [INFO] Preparing start region for level 0
+2017-04-18 16:29:25 [SERVER] [INFO] Player826[/127.0.0.1:0] logged in with entity id 323 at (-228.2127693538774, 67.0, 253.1508469284159)
+2017-04-18 16:29:25 [SERVER] [INFO] Player826 joined the game
+2017-04-18 16:30:17 [SERVER] [INFO] Stopping server
+2017-04-18 17:07:20 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2017-04-18 17:07:20 [SERVER] [INFO] Generating keypair
+2017-04-18 17:07:20 [SERVER] [INFO] Preparing start region for level 0
+2017-04-18 17:07:21 [SERVER] [INFO] Player782[/127.0.0.1:0] logged in with entity id 328 at (-228.2127693538774, 67.0, 253.1508469284159)
+2017-04-18 17:07:21 [SERVER] [INFO] Player782 joined the game
+2017-04-18 17:07:41 [SERVER] [INFO] Saving and pausing game...
+2017-04-18 17:07:41 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-18 17:07:41 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-18 17:07:41 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-18 17:07:42 [SERVER] [INFO] Stopping server
+2017-04-18 17:07:42 [SERVER] [INFO] Saving players
+2017-04-18 17:07:42 [SERVER] [INFO] Player782 left the game
+2017-04-18 17:07:42 [SERVER] [INFO] Saving worlds
+2017-04-18 17:07:42 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-18 17:07:42 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-18 17:07:42 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-18 20:12:57 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2017-04-18 20:12:57 [SERVER] [INFO] Generating keypair
+2017-04-18 20:12:58 [SERVER] [INFO] Preparing start region for level 0
+2017-04-18 20:12:58 [SERVER] [INFO] Player248[/127.0.0.1:0] logged in with entity id 328 at (-228.2127693538774, 67.0, 253.1508469284159)
+2017-04-18 20:12:58 [SERVER] [INFO] Player248 joined the game
+2017-04-18 20:13:36 [SERVER] [INFO] Stopping server
+2017-04-18 20:13:36 [SERVER] [INFO] Saving players
+2017-04-18 20:13:36 [SERVER] [INFO] Player248 left the game
+2017-04-18 20:13:36 [SERVER] [INFO] Saving worlds
+2017-04-18 20:13:36 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-18 20:13:36 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-18 20:13:36 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-18 20:13:48 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2017-04-18 20:13:48 [SERVER] [INFO] Generating keypair
+2017-04-18 20:13:48 [SERVER] [INFO] Preparing start region for level 0
+2017-04-18 20:13:49 [SERVER] [INFO] Player402[/127.0.0.1:0] logged in with entity id 327 at (-228.2127693538774, 67.0, 253.1508469284159)
+2017-04-18 20:13:49 [SERVER] [INFO] Player402 joined the game
+2017-04-18 20:14:11 [SERVER] [INFO] Saving and pausing game...
+2017-04-18 20:14:11 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-18 20:14:11 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-18 20:14:11 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-18 20:15:19 [SERVER] [INFO] Saving and pausing game...
+2017-04-18 20:15:19 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-18 20:15:19 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-18 20:15:19 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-18 20:15:22 [SERVER] [INFO] Stopping server
+2017-04-18 20:15:22 [SERVER] [INFO] Saving players
+2017-04-18 20:15:22 [SERVER] [INFO] Player402 left the game
+2017-04-18 20:15:22 [SERVER] [INFO] Saving worlds
+2017-04-18 20:15:22 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-18 20:15:22 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-18 20:15:22 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-18 20:15:35 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2017-04-18 20:15:35 [SERVER] [INFO] Generating keypair
+2017-04-18 20:15:35 [SERVER] [INFO] Preparing start region for level 0
+2017-04-18 20:15:36 [SERVER] [INFO] Player988[/127.0.0.1:0] logged in with entity id 328 at (-242.19457303777403, 72.4807108763317, 251.8195703887102)
+2017-04-18 20:15:36 [SERVER] [INFO] Player988 joined the game
+2017-04-18 20:17:04 [SERVER] [INFO] Stopping server
+2017-04-18 20:17:04 [SERVER] [INFO] Saving players
+2017-04-18 20:17:04 [SERVER] [INFO] Player988 left the game
+2017-04-18 20:17:04 [SERVER] [INFO] Saving worlds
+2017-04-18 20:17:04 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-18 20:17:04 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-18 20:17:04 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-18 20:17:26 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2017-04-18 20:17:26 [SERVER] [INFO] Generating keypair
+2017-04-18 20:17:26 [SERVER] [INFO] Preparing start region for level 0
+2017-04-18 20:17:27 [SERVER] [INFO] Player505[/127.0.0.1:0] logged in with entity id 329 at (-247.69999998807907, 69.0, 253.67465836705873)
+2017-04-18 20:17:27 [SERVER] [INFO] Player505 joined the game
+2017-04-18 20:18:02 [SERVER] [INFO] Saving and pausing game...
+2017-04-18 20:18:02 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-18 20:18:02 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-18 20:18:02 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-18 20:24:48 [SERVER] [INFO] Stopping server
+2017-04-18 20:24:48 [SERVER] [INFO] Saving players
+2017-04-18 20:24:48 [SERVER] [INFO] Player505 left the game
+2017-04-18 20:24:48 [SERVER] [INFO] Saving worlds
+2017-04-18 20:24:48 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-18 20:24:48 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-18 20:24:48 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-18 20:36:06 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2017-04-18 20:36:06 [SERVER] [INFO] Generating keypair
+2017-04-18 20:36:06 [SERVER] [INFO] Preparing start region for level 0
+2017-04-18 20:36:07 [SERVER] [INFO] Player134[/127.0.0.1:0] logged in with entity id 321 at (-253.6713822547378, 67.0, 243.14068563643855)
+2017-04-18 20:36:07 [SERVER] [INFO] Player134 joined the game
+2017-04-18 20:36:10 [SERVER] [INFO] Saving and pausing game...
+2017-04-18 20:36:10 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-18 20:36:11 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-18 20:36:11 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-18 20:36:11 [SERVER] [INFO] Stopping server
+2017-04-18 20:36:11 [SERVER] [INFO] Saving players
+2017-04-18 20:36:11 [SERVER] [INFO] Player134 left the game
+2017-04-18 20:36:11 [SERVER] [INFO] Saving worlds
+2017-04-18 20:36:11 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-18 20:36:11 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-18 20:36:11 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-18 20:41:24 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2017-04-18 20:41:24 [SERVER] [INFO] Generating keypair
+2017-04-18 20:41:25 [SERVER] [INFO] Preparing start region for level 0
+2017-04-18 20:41:25 [SERVER] [INFO] Player383[/127.0.0.1:0] logged in with entity id 323 at (-253.6713822547378, 67.0, 243.14068563643855)
+2017-04-18 20:41:25 [SERVER] [INFO] Player383 joined the game
+2017-04-18 20:42:00 [SERVER] [INFO] Saving and pausing game...
+2017-04-18 20:42:00 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-18 20:42:00 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-18 20:42:00 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-18 20:44:53 [SERVER] [INFO] Stopping server
+2017-04-18 20:44:53 [SERVER] [INFO] Saving players
+2017-04-18 20:44:53 [SERVER] [INFO] Player383 left the game
+2017-04-18 20:44:53 [SERVER] [INFO] Saving worlds
+2017-04-18 20:44:53 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-18 20:44:53 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-18 20:44:53 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-18 20:44:53 [SERVER] [INFO] Stopping server
+2017-04-18 20:44:53 [SERVER] [INFO] Saving players
+2017-04-18 20:45:08 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2017-04-18 20:45:08 [SERVER] [INFO] Generating keypair
+2017-04-18 20:46:13 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2017-04-18 20:46:13 [SERVER] [INFO] Generating keypair
+2017-04-18 20:46:14 [SERVER] [INFO] Preparing start region for level 0
+2017-04-18 20:46:15 [SERVER] [INFO] Player788[/127.0.0.1:0] logged in with entity id 326 at (-274.69999998807907, 73.24918707874468, 265.30000001192093)
+2017-04-18 20:46:15 [SERVER] [INFO] Player788 joined the game
+2017-04-18 20:46:30 [SERVER] [INFO] Saving and pausing game...
+2017-04-18 20:46:30 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-18 20:46:30 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-18 20:46:30 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-18 20:46:32 [SERVER] [INFO] Stopping server
+2017-04-18 20:46:32 [SERVER] [INFO] Saving players
+2017-04-18 20:46:32 [SERVER] [INFO] Player788 left the game
+2017-04-18 20:46:32 [SERVER] [INFO] Saving worlds
+2017-04-18 20:46:32 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-18 20:46:32 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-18 20:46:32 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-18 20:46:32 [SERVER] [INFO] Stopping server
+2017-04-18 20:48:21 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2017-04-18 20:48:21 [SERVER] [INFO] Generating keypair
+2017-04-18 20:48:21 [SERVER] [INFO] Preparing start region for level 0
+2017-04-18 20:48:22 [SERVER] [INFO] Player600[/127.0.0.1:0] logged in with entity id 328 at (-274.86880431251217, 73.0, 264.9746552679869)
+2017-04-18 20:48:22 [SERVER] [INFO] Player600 joined the game
+2017-04-18 20:48:26 [SERVER] [INFO] Saving and pausing game...
+2017-04-18 20:48:26 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-18 20:48:26 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-18 20:48:26 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-18 20:48:33 [SERVER] [INFO] Saving and pausing game...
+2017-04-18 20:48:33 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-18 20:48:33 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-18 20:48:33 [SERVER] [INFO] Saving chunks for level 'durp'/The End
+2017-04-18 20:49:02 [SERVER] [INFO] Stopping server
+2017-04-18 20:49:02 [SERVER] [INFO] Saving players
+2017-04-18 20:49:02 [SERVER] [INFO] Player600 left the game
+2017-04-18 20:49:02 [SERVER] [INFO] Saving worlds
+2017-04-18 20:49:02 [SERVER] [INFO] Saving chunks for level 'durp'/Overworld
+2017-04-18 20:49:02 [SERVER] [INFO] Saving chunks for level 'durp'/Nether
+2017-04-18 20:49:02 [SERVER] [INFO] Saving chunks for level 'durp'/The End

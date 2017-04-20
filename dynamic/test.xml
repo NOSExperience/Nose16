@@ -14,10 +14,13 @@
         <registryname>shadycat</registryname>
 		<englishname>Shady Cat</englishname>
         <texturename>testa</texturename>
+        <inventory>tools</inventory>
 	</item>
 	<block>
 		<registryname>catblock</registryname>
 		<englishname>Cat Block</englishname>
+		<inventory>tools</inventory>
+		<material>wood</material>
 		<texturename>testa</texturename>
 	</block>
 </xml>
