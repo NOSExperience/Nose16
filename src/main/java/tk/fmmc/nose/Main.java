@@ -29,7 +29,7 @@ public class Main {
 	}
 	
 	@EventHandler
-	void postInit(FMLPostInitializationEvent e) {
+	void postInit(FMLPostInitializationEvent e) throws Exception {
 		proxy.postInit(e);
 	}
 	
