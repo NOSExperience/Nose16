@@ -7,11 +7,13 @@ import tk.fmmc.nose.web.Downloader;
 
 public class ClientProxy extends CommonProxy {
 	
+	private static final String URL_STR = "http://localhost/nosemod/";
+	
 	@Override
 	public void preInit(FMLPreInitializationEvent e) throws Exception {
 		super.preInit(e);
 		
-		Downloader.downloadAll("http://localhost/nosemod/");
+		Downloader.preInit(URL_STR);
 		
 		Discoverer ds = new Discoverer();
 		ds.run();
@@ -23,7 +25,9 @@ public class ClientProxy extends CommonProxy {
 	}
 	
 	@Override
-	public void postInit(FMLPostInitializationEvent e) {
+	public void postInit(FMLPostInitializationEvent e) throws Exception {
 		super.postInit(e);
+		
+		Downloader.postInit(URL_STR);
 	}
 }
