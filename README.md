@@ -1,2 +1,0 @@
-# Nose
-The Block Loader
