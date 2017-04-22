@@ -16,7 +16,16 @@ import javax.swing.text.html.parser.ParserDelegator;
 
 public class Downloader {
 
-	public static void downloadAll(String urlStr) throws Exception {		
+	public static void preInit(String urlStr) throws Exception {		
+		downloadDefinitions(urlStr);
+		downloadResourcePack(urlStr);
+	}
+	
+	public static void postInit(String urlStr) throws IOException {
+		downloadConfiguration(urlStr);
+	}
+	
+	private static void downloadDefinitions(String urlStr) throws Exception {
 		List<String> dirList = getDirList(urlStr);
 		
 		for(String i : dirList) {
@@ -48,5 +57,13 @@ public class Downloader {
 		}
 		
 		return c.getFileNames();
+	}
+	
+	private static void downloadResourcePack(String urlStr) throws IOException {
+		downloadFile(new URL(urlStr + "NoseRes.zip"), Paths.get("resourcepacks/NoseRes.zip"));
+	}
+	
+	private static void downloadConfiguration(String urlStr) throws IOException {
+		downloadFile(new URL(urlStr + "options.txt"), Paths.get("options.txt"));
 	}
 }

@@ -33,7 +33,9 @@ public class Callback extends ParserCallback {
 					&& !(str.contains("Last modified"))
 					&& !(str.contains("Size"))
 					&& !(str.contains("Description"))
-					&& !(str.contains("Parent Directory")) ) {
+					&& !(str.contains("Parent Directory"))
+					&& !(str.contains("NoseRes.zip"))
+					&& !(str.contains("options.txt")) ) {
 				//System.out.println(chars);
 				fileNames.add(str);
 			}	
