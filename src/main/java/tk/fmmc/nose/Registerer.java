@@ -9,7 +9,7 @@ import net.minecraft.item.Item;
 
 public class Registerer {
 	
-	public static int lastId = 4000;
+	public static int lastId = 200;
 	
 	public static void register(ItemSpecification spec) {
 		System.out.println("inventory: " + spec.getInventoryTab());
